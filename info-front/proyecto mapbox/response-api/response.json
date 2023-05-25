@@ -1,0 +1,2816 @@
+{
+    "currentPage": 1,
+    "pageSize": 20,
+    "totalResults": 60709,
+    "currentResults": 20,
+    "totalPages": 114,
+    "availableSortingMethods": [
+        "updated-desc"
+    ],
+    "sortBy": "updated-desc",
+    "sinceDate": "ANY",
+    "items": [
+        {
+            "id": "99e60875d44d9a9814086848c0b04e",
+            "title": "Subdirector /a clínica Sanitas dental.  Barcelona",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/subdirector-clinica-sanitas-dental.-barcelona/of-i99e60875d44d9a9814086848c0b04e",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 110,
+                "value": "Diplomatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:11:25.000Z",
+            "updated": "2023-05-23T21:11:25.000Z",
+            "author": {
+                "id": "9d89ba2c3f4c2f8355113f99a3ee4e",
+                "privateId": 13672839454,
+                "name": "Sanitas Dental",
+                "uri": "https://sanitas-dental.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/07/071a522c-20f5-4e0d-ac53-8c5a75a9c01f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1ODM0OTAzNzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNy8wNzFhNTIyYy0yMGY1LTRlMGQtYWM1My04YzVhNzVhOWMwMWYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Y3NE39mh8pKQTg5vkS5Ql0dNajGuyG4v2Y2C6Nqx97AyL0j5AiPVdqDv9gbE_QBEzz7Wr92PfWTptr-_VJvrWPo0xpSbj7zUa5xeAXm0lGd65KCzdkhT8JvlJiN7AKKrLWTyuDvjNfTAXMAcGaQkhUlVU7DKvLBEcxKdMWFCB2yd-jwiPxbkcx7jV-D38FMtoLXehsmhS3_2iWcYyFx2xqY6uOj_okRe61BQpHSa6XLOeQ2DQodjadOIlh5KVOrwVtJojHa48j3DO0-1jBiwzYcZ8ERlKpCMo3TnpR3hYV2pDB2qo_Nk-4zEYGEdvbL1ceb47XWBzfQKfGx0FptjEg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "-Experiencia gestionando equipos\r\n- Estudios universitarios finalizados (se solicitará título para la contratación)",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "e4577f690544beb3d750a63cffc2ea",
+            "title": "Vendedor/a - Interinidad (3 años ) - 16h disp. tardes -cortefiel - c.c plaza mayor ,XATIVA PUEBLO",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Xàtiva",
+            "link": "https://www.infojobs.net/xativa/vendedor-interinidad-3-anos-16h-disp.-tardes-cortefiel-c.c-plaza-mayor-xativa-pueblo/of-ie4577f690544beb3d750a63cffc2ea",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 3,
+                "value": "Parcial - Tarde"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:10:17.000Z",
+            "updated": "2023-05-23T21:10:17.000Z",
+            "author": {
+                "id": "4c5fa8d2004e6e9fb2a4d0c027a500",
+                "privateId": 8333023996,
+                "name": "Cortefiel Ofertas Tienda",
+                "uri": "https://cortefiel.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/87/87f16fef-a295-4e58-973d-9187734b6463?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDExNjIwNzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84Ny84N2YxNmZlZi1hMjk1LTRlNTgtOTczZC05MTg3NzM0YjY0NjMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jtUahtkRwWc5HHIgYff1GBjgfEUc6kTyMa0ZmRrlQE0arO6siIbS-apsxnsmwv1xj_RavFzsId72KAwLNuI6YH8y63QMmp07Lk7qMb3tDvdJSgvP8Kh4CLh0jh53deFmFyy9JqNjUJVDHHgr2mo3nA-qci5YkJhz_3pW78Ue11ku6U7vZcXfZcMymPKGRyS92GpMJp0zs6LQTGaTudlwFwb2-ihXuwuf11OYWuxpxzxQHajGDVtKufxBojUG0NEbiI88iG5Cai7I-NfoLHIza6FM44Zh3xBG_s0C6GO6U1bbYDpTojlDOv2Y0iDKG6ex7hcLIW-hVjcDZcag7Q-_Cg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Residencia en LOCALIDAD o bien comunicado con la tienda  para trabajar con un contrato de jornada de 16h \r\nExperiencia como vendedor en sector textil\r\nDisponibilidad de incorporación INMEDIATA.\r\nDisponibilidad horaria de tardes",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "c8e4f708b84c3585cc7b77f49c3792",
+            "title": "AGENTE COMERCIAL INMOBILIARIO",
+            "province": {
+                "id": 20,
+                "value": "Las Palmas"
+            },
+            "city": "Las Palmas de Gran Canaria",
+            "link": "https://www.infojobs.net/las-palmas-de-gran-canaria/agente-comercial-inmobiliario/of-ic8e4f708b84c3585cc7b77f49c3792",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 650,
+                "value": "100.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "teleworking": {
+                "id": 2,
+                "value": "Solo teletrabajo"
+            },
+            "published": "2023-05-23T21:09:02.000Z",
+            "updated": "2023-05-23T21:09:02.000Z",
+            "author": {
+                "id": "10211452505157545251501017174246614841",
+                "privateId": 32317449692,
+                "name": "SAFTI",
+                "uri": "https://safti.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/14/14502ba3-3930-4b86-a661-98aa67f8ee53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjUwOTQ4MjgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xNC8xNDUwMmJhMy0zOTMwLTRiODYtYTY2MS05OGFhNjdmOGVlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.V_JRuClO3bQw-d54XJnqjMIEe85FpxHeSKm_LZ1KECHVDzFBpMFdc-DyP-UUEVozJGQFaJPRNoTmOVT_IzCju51fspDXHgSfmqYsQbWoC6yuJpSseNcF5sunXi16qeB9W_fxdWMe58A23R2auQwhz7-mOFjrjyO1pvK-6e4BTotkZzrly6lLA7RWodBc4zrME8Ie6hSnLsfaGacsqWYjrnXX-x_3h39su7r5aNJvgBGvpAU7PSDVwDqXPapyi-1uauu2xKwr1l7af-qAvqris8JFOlfaRhXcGz41pzQjxuYb2vy1MzLfy6rkGwWY1kLjxdU1xPt_MPF7My4tvrCEvA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "1. Excelentes habilidades de comunicación. \n2. Ética y profesionalismo. \n3. Capacidad para resolver problemas y tomar decisiones. \n4. Habilidad comercial para negociar y cerrar ventas. \n5. Excelente habilidad de servicio al cliente. \n6. Competencia en el uso de herramientas tecnológicas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "1b481a42ec415f94f149eec9a96fc4",
+            "title": "AGENTE COMERCIAL INMOBILIARIO",
+            "province": {
+                "id": 36,
+                "value": "Murcia"
+            },
+            "city": "Murcia",
+            "link": "https://www.infojobs.net/murcia/agente-comercial-inmobiliario/of-i1b481a42ec415f94f149eec9a96fc4",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 650,
+                "value": "100.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "teleworking": {
+                "id": 2,
+                "value": "Solo teletrabajo"
+            },
+            "published": "2023-05-23T21:06:23.000Z",
+            "updated": "2023-05-23T21:06:23.000Z",
+            "author": {
+                "id": "10211452505157545251501017174246614841",
+                "privateId": 32317449692,
+                "name": "SAFTI",
+                "uri": "https://safti.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/14/14502ba3-3930-4b86-a661-98aa67f8ee53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjUwOTQ4MjgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xNC8xNDUwMmJhMy0zOTMwLTRiODYtYTY2MS05OGFhNjdmOGVlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.V_JRuClO3bQw-d54XJnqjMIEe85FpxHeSKm_LZ1KECHVDzFBpMFdc-DyP-UUEVozJGQFaJPRNoTmOVT_IzCju51fspDXHgSfmqYsQbWoC6yuJpSseNcF5sunXi16qeB9W_fxdWMe58A23R2auQwhz7-mOFjrjyO1pvK-6e4BTotkZzrly6lLA7RWodBc4zrME8Ie6hSnLsfaGacsqWYjrnXX-x_3h39su7r5aNJvgBGvpAU7PSDVwDqXPapyi-1uauu2xKwr1l7af-qAvqris8JFOlfaRhXcGz41pzQjxuYb2vy1MzLfy6rkGwWY1kLjxdU1xPt_MPF7My4tvrCEvA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "1. Excelentes habilidades de comunicación. \n2. Ética y profesionalismo. \n3. Capacidad para resolver problemas y tomar decisiones. \n4. Habilidad comercial para negociar y cerrar ventas. \n5. Excelente habilidad de servicio al cliente. \n6. Competencia en el uso de herramientas tecnológicas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3448dff2e6420ca8db6eb57facfd1a",
+            "title": "Vendedor/a - Indefinido - 8h disp. fines de semana -CORTEFIEL- C/ COLÓN",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/vendedor-indefinido-8h-disp.-fines-semana-cortefiel-c-colon/of-i3448dff2e6420ca8db6eb57facfd1a",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:04:54.000Z",
+            "updated": "2023-05-23T21:04:54.000Z",
+            "author": {
+                "id": "4c5fa8d2004e6e9fb2a4d0c027a500",
+                "privateId": 8333023996,
+                "name": "Cortefiel Ofertas Tienda",
+                "uri": "https://cortefiel.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/87/87f16fef-a295-4e58-973d-9187734b6463?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDExNjIwNzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84Ny84N2YxNmZlZi1hMjk1LTRlNTgtOTczZC05MTg3NzM0YjY0NjMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jtUahtkRwWc5HHIgYff1GBjgfEUc6kTyMa0ZmRrlQE0arO6siIbS-apsxnsmwv1xj_RavFzsId72KAwLNuI6YH8y63QMmp07Lk7qMb3tDvdJSgvP8Kh4CLh0jh53deFmFyy9JqNjUJVDHHgr2mo3nA-qci5YkJhz_3pW78Ue11ku6U7vZcXfZcMymPKGRyS92GpMJp0zs6LQTGaTudlwFwb2-ihXuwuf11OYWuxpxzxQHajGDVtKufxBojUG0NEbiI88iG5Cai7I-NfoLHIza6FM44Zh3xBG_s0C6GO6U1bbYDpTojlDOv2Y0iDKG6ex7hcLIW-hVjcDZcag7Q-_Cg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Residencia en LOCALIDAD o bien comunicado con la tienda para trabajar con un contrato de jornada de 8h \r\nExperiencia como vendedor en sector textil\r\nDisponibilidad de incorporación INMEDIATA.\r\nDisponibilidad horaria de fines de semana.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "d0babcecfa41ffb57ee26b2160ab64",
+            "title": "Vendedor/a - Indefinido - 8h disp. fines de semana -WOMEN´SECRET- C.C OCIOPIA, ORIHUELA",
+            "province": {
+                "id": 4,
+                "value": "Alicante/Alacant"
+            },
+            "city": "Orihuela",
+            "link": "https://www.infojobs.net/orihuela/vendedor-indefinido-8h-disp.-fines-semana-women-secret-c.c-ociopia-orihuela/of-id0babcecfa41ffb57ee26b2160ab64",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:02:00.000Z",
+            "updated": "2023-05-23T21:02:00.000Z",
+            "author": {
+                "id": "6eb84b6763404aab7626dd334c6645",
+                "privateId": 8333021672,
+                "name": "Women´secret Ofertas Tienda",
+                "uri": "https://womens-secret.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/20/20ca2de7-2b78-48aa-ba41-16aee0cc1d09?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTc4NTMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yMC8yMGNhMmRlNy0yYjc4LTQ4YWEtYmE0MS0xNmFlZTBjYzFkMDkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Flr05Rsph6e6bmlC4NbQsI00AWnYn9AhkQPjDMjM8cH66rouZwFwEtn8KV_JVbgPtZqY8j1g13cZo_5zKs3GbIbUQ6g7qpKBQayS5uAWXHrL478m4LiUOA_KzUnEzRT1nzfOgsiErqa2OrMds8kCxk4vhJdWtpa971nUQtsmAoSOlJCJgALpD4l07YM0wK4YJ8i7C4Nv-K5nDaeBskRDB3m3JEfo3G0nRk71vuEYXN7fAATKRR5qKtbKojI24bA86zQI2Fw49Y7umSE3kzNBryxbxWwvxEEjRytX54BiPqSvPIInwYFBua4E6A3qPUASjNwSsomvt-iG-GWH0XVbSg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Residencia en LOCALIDAD o bien comunicado con la tienda para trabajar con un contrato de jornada de 8h \r\nExperiencia como vendedor en sector textil\r\nDisponibilidad de incorporación INMEDIATA.\r\nDisponibilidad horaria de fines de semana.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "9571b16edb4e5eaafb335a72d44a81",
+            "title": "AGENTE COMERCIAL INMOBILIARIO",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Málaga",
+            "link": "https://www.infojobs.net/malaga/agente-comercial-inmobiliario/of-i9571b16edb4e5eaafb335a72d44a81",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 650,
+                "value": "100.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "teleworking": {
+                "id": 2,
+                "value": "Solo teletrabajo"
+            },
+            "published": "2023-05-23T21:00:19.000Z",
+            "updated": "2023-05-23T21:00:19.000Z",
+            "author": {
+                "id": "10211452505157545251501017174246614841",
+                "privateId": 32317449692,
+                "name": "SAFTI",
+                "uri": "https://safti.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/14/14502ba3-3930-4b86-a661-98aa67f8ee53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjUwOTQ4MjgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xNC8xNDUwMmJhMy0zOTMwLTRiODYtYTY2MS05OGFhNjdmOGVlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.V_JRuClO3bQw-d54XJnqjMIEe85FpxHeSKm_LZ1KECHVDzFBpMFdc-DyP-UUEVozJGQFaJPRNoTmOVT_IzCju51fspDXHgSfmqYsQbWoC6yuJpSseNcF5sunXi16qeB9W_fxdWMe58A23R2auQwhz7-mOFjrjyO1pvK-6e4BTotkZzrly6lLA7RWodBc4zrME8Ie6hSnLsfaGacsqWYjrnXX-x_3h39su7r5aNJvgBGvpAU7PSDVwDqXPapyi-1uauu2xKwr1l7af-qAvqris8JFOlfaRhXcGz41pzQjxuYb2vy1MzLfy6rkGwWY1kLjxdU1xPt_MPF7My4tvrCEvA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "1. Excelentes habilidades de comunicación. \n2. Ética y profesionalismo. \n3. Capacidad para resolver problemas y tomar decisiones. \n4. Habilidad comercial para negociar y cerrar ventas. \n5. Excelente habilidad de servicio al cliente. \n6. Competencia en el uso de herramientas tecnológicas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "bf3d5384c04aa38496fe01a41a7fa6",
+            "title": "Arquitecto / Técnico con inglés",
+            "province": {
+                "id": 4,
+                "value": "Alicante/Alacant"
+            },
+            "city": "Torrevieja",
+            "link": "https://www.infojobs.net/torrevieja/arquitecto-tecnico-con-ingles/of-ibf3d5384c04aa38496fe01a41a7fa6",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3057,
+                "value": "Arquitectura y proyección"
+            },
+            "salaryMin": {
+                "id": 160,
+                "value": "1.500 €"
+            },
+            "salaryMax": {
+                "id": 1140,
+                "value": "2.000 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 6,
+                "value": "Intensiva - Mañana"
+            },
+            "study": {
+                "id": 120,
+                "value": "Ingeniería Técnica"
+            },
+            "teleworking": {
+                "id": 3,
+                "value": "Híbrido"
+            },
+            "published": "2023-05-16T20:56:08.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98485755545952651101162022194909811324",
+                "privateId": 46656916352,
+                "name": "ARQUITECTOS MAB",
+                "uri": "https://www.infojobs.net/arquitectos-mab/em-i98485755545952651101162022194909811324",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "idiomas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "1.500€ - 2.000€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "4a8fb6684f4f3fa34987b185a9397e",
+            "title": "MANICURISTA",
+            "province": {
+                "id": 20,
+                "value": "Las Palmas"
+            },
+            "city": "Arrecife",
+            "link": "https://www.infojobs.net/arrecife/manicurista/of-i4a8fb6684f4f3fa34987b185a9397e",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3086,
+                "value": "Estética y cosmética"
+            },
+            "salaryMin": {
+                "id": 140,
+                "value": "900 €"
+            },
+            "salaryMax": {
+                "id": 1080,
+                "value": "1.100 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 160,
+                "value": "Otros títulos, certificaciones y carnés"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-19T16:05:35.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "10652525654534977698264023195673305914",
+                "privateId": 47814242480,
+                "name": "MERAKI AESTHETIC",
+                "uri": "https://www.infojobs.net/meraki-aesthetic/em-i10652525654534977698264023195673305914",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "900€ - 1.100€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "d619b7e8ca4acebc07a360f5f1bf93",
+            "title": "RESPONSABLE ASESORIA CONTABLE",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/responsable-asesoria-contable/of-id619b7e8ca4acebc07a360f5f1bf93",
+            "category": {
+                "id": 10,
+                "value": "Administración de empresas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3005,
+                "value": "Finanzas y contabilidad"
+            },
+            "salaryMin": {
+                "id": 1300,
+                "value": "20.000 €"
+            },
+            "salaryMax": {
+                "id": 1330,
+                "value": "25.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-03-28T17:19:51.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98575551524750758269832021147640611067",
+                "privateId": 43106428406,
+                "name": "KRESTON IBERAUDIT FRP SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/kreston-iberaudit-frp-sociedad-limitada./em-i98575551524750758269832021147640611067",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "CONTABILIDAD -FISCALIDAD- SAGE",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "20.000€ - 25.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "f62dd56a40440d9307400e391a0b0b",
+            "title": "JEFE DE OBRA",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/jefe-obra/of-if62dd56a40440d9307400e391a0b0b",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3059,
+                "value": "Ingeniería civil y obras públicas"
+            },
+            "salaryMin": {
+                "id": 290,
+                "value": "36.000 €"
+            },
+            "salaryMax": {
+                "id": 980,
+                "value": "43.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 120,
+                "value": "Ingeniería Técnica"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-02T19:45:39.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98545352525651739069828017085106808573",
+                "privateId": 31697910134,
+                "name": "IZER",
+                "uri": "https://www.infojobs.net/izer/em-i98545352525651739069828017085106808573",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/cd/cd59fe90-701b-4b21-925e-587ba36dc6ab?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTEyNjcwNzYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jZC9jZDU5ZmU5MC03MDFiLTRiMjEtOTI1ZS01ODdiYTM2ZGM2YWIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.iVz8AkvSAn37l4ydmKengWWJfCTmkEGyaoKyTFyyQqZgo88hLdZQhp7rn68dTWNL14guyEcXXmzGRwFSkAgqINAdOYKlSQnPvjvd17dWmJ9f96lqoq4X0ACphKprbOkd5I7Fdr7LLfMWobqgq0HPNqrEWn9tPkjvikmRPc-372p3MU8lneXb_PehU5S5VvcRCjkT_9p5T96NScShhb9_pSGyHs1yRr3jGulGxOxN2bs2AMlt0zB6JeREVsiETHrqwP2STru7s1YV3ssiGaiWYlICBRolPJFaOqT2lf2hXvV-uXmitVi0Aj6Omdg6mfV5BbGIX-X4Q575sti_WBvp-A&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "TCQ Y BEDEC\r\nAUTOCAD\r\nMICROSOFT PROJECT\r\nOFFICE AVANZADO",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 32,
+            "executive": false,
+            "salaryDescription": "36.000€ - 43.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "6a7a93a68947b1ab9a0e7dbd358430",
+            "title": "Ayudante de cocina",
+            "province": {
+                "id": 51,
+                "value": "Vizcaya/Bizkaia"
+            },
+            "city": "Erandio",
+            "link": "https://www.infojobs.net/erandio/ayudante-cocina/of-i6a7a93a68947b1ab9a0e7dbd358430",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 4,
+                "value": "A tiempo parcial"
+            },
+            "subcategory": {
+                "id": 3115,
+                "value": "Hostelería"
+            },
+            "salaryMin": {
+                "id": 410,
+                "value": "10.000 €"
+            },
+            "salaryMax": {
+                "id": 410,
+                "value": "10.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-25T19:12:57.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98575350495554906982854023155161404969",
+                "privateId": 47768677078,
+                "name": "ZERUNAIT CAFE SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/zerunait-cafe-sociedad-limitada./em-i98575350495554906982854023155161404969",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "10.000€ - 10.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "85d94ee7b94b20bf56ce7443b9fc67",
+            "title": "Patrón de barco",
+            "province": {
+                "id": 5,
+                "value": "Almería"
+            },
+            "city": "Almería",
+            "link": "https://www.infojobs.net/almeria/patron-barco/of-i85d94ee7b94b20bf56ce7443b9fc67",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 410,
+                "value": "10.000 €"
+            },
+            "salaryMax": {
+                "id": 1240,
+                "value": "11.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-04T17:51:23.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98565050535654808279684023047092706559",
+                "privateId": 47679599774,
+                "name": "PRODUCTOS IGARU S.L.",
+                "uri": "https://www.infojobs.net/productos-igaru-s.l./em-i98565050535654808279684023047092706559",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "10.000€ - 11.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "2f00eb09074bda9ec22a618a0d18ff",
+            "title": "Oficial Carrocero de vehículos industriales",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Martorell",
+            "link": "https://www.infojobs.net/martorell/oficial-carrocero-vehiculos-industriales/of-i2f00eb09074bda9ec22a618a0d18ff",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3081,
+                "value": "Automoción"
+            },
+            "salaryMin": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryMax": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 4,
+                "value": "Al menos 4 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-04T17:53:21.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98545550545551837967731018122528612843",
+                "privateId": 34573444136,
+                "name": "SOCIETY AND NEUROBUSINESS EXPERIENCE S.L.",
+                "uri": "https://www.infojobs.net/society-and-neurobusiness-experience-s.l./em-i98545550545551837967731018122528612843",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/9e/9e681469-c1ab-49b3-9756-9736240fdece?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTAyNTE4OTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy85ZS85ZTY4MTQ2OS1jMWFiLTQ5YjMtOTc1Ni05NzM2MjQwZmRlY2UiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.WK_0ijr63y6DPKv0bUWP30QkenJlqcD-OJGhT9iUyV9ZJgtMX9l81zJPvD0NJK_3cz2dz8mlSBI-IGrhXaauqajEzfX06YghT7o8CqAxyNnpWzAHZ4W2R5kSegjP0KTcZS_Y-HX5Z2-lggMrsWpx9PuBvMwk83P6_L23CkNlYJH0tVH_hJHy-lqLbTVrAJSsq8wE9JetVKsNTN9ElHzE8IhFrP5FMVcDtuwPLfkmTXLp8m1ZwbcUkYfDRS82tE3KDrmvBOZLr-JYNVTR5-H1BxkYFv-Y2GiQfXJi7PkhMeg90X87cnI-KngT4v6pUCbquoiK8JDCOe57t76e1_Dydw&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Buscamos un profesional Oficial de 1ª con al menos 4 años de experiencia en reparación de carrocería de vehículos industriales o automoción. \r\nConocimientos de Soldadura\r\nCarné de conducir\r\n\r\nHorario de trabajo rotativo: de 08:00h a 15:30h de L a V y 10.00h a 19:00h de L a V y sábados de 8,30 a 13,30",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "23.000€ - 24.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "a81527c35b48418bc1a5a90d42cf01",
+            "title": "PIANISTA",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/pianista/of-ia81527c35b48418bc1a5a90d42cf01",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3115,
+                "value": "Hostelería"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 4,
+                "value": "Parcial - Noche"
+            },
+            "study": {
+                "id": 23,
+                "value": "Enseñanzas artísticas (regladas)"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-18T18:38:19.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "49505357575411684797875017173547602574",
+                "privateId": 31259238136,
+                "name": "JULIA SANCHEZ ARROYO",
+                "uri": "https://www.infojobs.net/julia-sanchez-arroyo/em-i49505357575411684797875017173547602574",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "1.300€ - 1.300€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3f4a50eb0948c1889f638d4c4355b6",
+            "title": "Operario/a de limpieza y entrega de vehículos de alquiler",
+            "province": {
+                "id": 26,
+                "value": "Islas Baleares/Illes Balears"
+            },
+            "city": "Mahón",
+            "link": "https://www.infojobs.net/mahon/operario-limpieza-entrega-vehiculos-alquiler/of-i3f4a50eb0948c1889f638d4c4355b6",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 9,
+                "value": "Fijo discontinuo"
+            },
+            "subcategory": {
+                "id": 3118,
+                "value": "Atención al cliente"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-02T19:54:04.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98565352535151675432675023027698306842",
+                "privateId": 47938517818,
+                "name": "C6 CENTER SL",
+                "uri": "https://www.infojobs.net/c6-center-sl/em-i98565352535151675432675023027698306842",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "Más de 1.200€",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "1789ebf14648aeb53287e8f65ac6b7",
+            "title": "DIRECTOR/A COMERCIAL CLINICA DENTAL",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Valdemoro",
+            "link": "https://www.infojobs.net/valdemoro/director-comercial-clinica-dental/of-i1789ebf14648aeb53287e8f65ac6b7",
+            "category": {
+                "id": 140,
+                "value": "Sanidad y salud"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3140,
+                "value": "Odontología"
+            },
+            "salaryMin": {
+                "id": 1330,
+                "value": "25.000 €"
+            },
+            "salaryMax": {
+                "id": 290,
+                "value": "36.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 110,
+                "value": "Diplomatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-11T18:27:27.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98564849504350776578714022286744302592",
+                "privateId": 44431731156,
+                "name": "MANGEMA SL",
+                "uri": "https://www.infojobs.net/mangema-sl/em-i98564849504350776578714022286744302592",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Tener más de 5 años de experiencia en ventas a cliente final y mínimo 3 años como Director dirigiendo y formando equipos, Experto en venta de servicios de odontología o similar, Habilidades comunicativas y de liderazgo, Trabajar bien bajo una presión considerable, Iniciativa. Buscamos una persona con alta capacidad de responsabilidad, habilidades de comunicación y con clara orientación a la consecución de objetivos comerciales, con disponibilidad para trabajar en horario de 10-13,30 y 16-20,30 horas de lunes a viernes. Incorporación inmediata.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "25.000€ - 36.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "e095ff08a5426591ce334c875cdf28",
+            "title": "Arquitecto/a",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/arquitecto/of-ie095ff08a5426591ce334c875cdf28",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3058,
+                "value": "Dirección y gestión de obras"
+            },
+            "salaryMin": {
+                "id": 280,
+                "value": "30.000 €"
+            },
+            "salaryMax": {
+                "id": 960,
+                "value": "40.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 140,
+                "value": "Licenciatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-03-28T17:02:47.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98495455485154686977653023286732602327",
+                "privateId": 47615797042,
+                "name": "DEMAERK GESTION DE PROYECTOS SL.",
+                "uri": "https://www.infojobs.net/demaerk-gestion-de-proyectos-sl./em-i98495455485154686977653023286732602327",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "30.000€ - 40.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "1af4537cfc40a697aee8510d31c822",
+            "title": "Administrativo/a",
+            "province": {
+                "id": 31,
+                "value": "Lleida"
+            },
+            "city": "Lleida",
+            "link": "https://www.infojobs.net/lleida/administrativo/of-i1af4537cfc40a697aee8510d31c822",
+            "category": {
+                "id": 10,
+                "value": "Administración de empresas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3000,
+                "value": "Administración"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 2,
+                "value": "Parcial - Mañana"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-18T18:55:51.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98505356525248678377324023187407802301",
+                "privateId": 47803729292,
+                "name": "CSM TERRES DE LLEIDA SL.",
+                "uri": "https://www.infojobs.net/csm-terres-de-lleida-sl./em-i98505356525248678377324023187407802301",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "abbfb5e27640b797580bc1058d6b72",
+            "title": "Oficial de primera instalador aire acondicionado ",
+            "province": {
+                "id": 53,
+                "value": "Zaragoza"
+            },
+            "city": "Zaragoza",
+            "link": "https://www.infojobs.net/zaragoza/oficial-primera-instalador-aire-acondicionado/of-iabbfb5e27640b797580bc1058d6b72",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3085,
+                "value": "Electricidad"
+            },
+            "salaryMin": {
+                "id": 255,
+                "value": "15.000 €"
+            },
+            "salaryMax": {
+                "id": 1300,
+                "value": "20.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-04T17:52:32.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98555052485249677673774023046991805792",
+                "privateId": 47679497678,
+                "name": "CLIMATICA ENERGIA SOLAR Y CLIMA SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/climatica-energia-solar-y-clima-sociedad-limitada./em-i98555052485249677673774023046991805792",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "15.000€ - 20.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        }
+    ],
+    "dataLayer": {
+        "offer_search_page": "1",
+        "offer_search_page_limit": "20",
+        "region_level2_id": "0"
+    },
+    "queryParameters": {
+        "study": [],
+        "province": [
+            "seleccionar"
+        ],
+        "salaryPeriod": "seleccionar",
+        "city": [],
+        "contractType": [],
+        "query": "",
+        "experienceMin": [],
+        "category": [
+            "-"
+        ],
+        "workDay": [],
+        "teleworking": []
+    },
+    "eligibleForAutomaticAlertCreation": false,
+    "offers": [
+        {
+            "id": "99e60875d44d9a9814086848c0b04e",
+            "title": "Subdirector /a clínica Sanitas dental.  Barcelona",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/subdirector-clinica-sanitas-dental.-barcelona/of-i99e60875d44d9a9814086848c0b04e",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 110,
+                "value": "Diplomatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:11:25.000Z",
+            "updated": "2023-05-23T21:11:25.000Z",
+            "author": {
+                "id": "9d89ba2c3f4c2f8355113f99a3ee4e",
+                "privateId": 13672839454,
+                "name": "Sanitas Dental",
+                "uri": "https://sanitas-dental.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/07/071a522c-20f5-4e0d-ac53-8c5a75a9c01f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1ODM0OTAzNzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNy8wNzFhNTIyYy0yMGY1LTRlMGQtYWM1My04YzVhNzVhOWMwMWYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Y3NE39mh8pKQTg5vkS5Ql0dNajGuyG4v2Y2C6Nqx97AyL0j5AiPVdqDv9gbE_QBEzz7Wr92PfWTptr-_VJvrWPo0xpSbj7zUa5xeAXm0lGd65KCzdkhT8JvlJiN7AKKrLWTyuDvjNfTAXMAcGaQkhUlVU7DKvLBEcxKdMWFCB2yd-jwiPxbkcx7jV-D38FMtoLXehsmhS3_2iWcYyFx2xqY6uOj_okRe61BQpHSa6XLOeQ2DQodjadOIlh5KVOrwVtJojHa48j3DO0-1jBiwzYcZ8ERlKpCMo3TnpR3hYV2pDB2qo_Nk-4zEYGEdvbL1ceb47XWBzfQKfGx0FptjEg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "-Experiencia gestionando equipos\r\n- Estudios universitarios finalizados (se solicitará título para la contratación)",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "e4577f690544beb3d750a63cffc2ea",
+            "title": "Vendedor/a - Interinidad (3 años ) - 16h disp. tardes -cortefiel - c.c plaza mayor ,XATIVA PUEBLO",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Xàtiva",
+            "link": "https://www.infojobs.net/xativa/vendedor-interinidad-3-anos-16h-disp.-tardes-cortefiel-c.c-plaza-mayor-xativa-pueblo/of-ie4577f690544beb3d750a63cffc2ea",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 3,
+                "value": "Parcial - Tarde"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:10:17.000Z",
+            "updated": "2023-05-23T21:10:17.000Z",
+            "author": {
+                "id": "4c5fa8d2004e6e9fb2a4d0c027a500",
+                "privateId": 8333023996,
+                "name": "Cortefiel Ofertas Tienda",
+                "uri": "https://cortefiel.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/87/87f16fef-a295-4e58-973d-9187734b6463?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDExNjIwNzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84Ny84N2YxNmZlZi1hMjk1LTRlNTgtOTczZC05MTg3NzM0YjY0NjMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jtUahtkRwWc5HHIgYff1GBjgfEUc6kTyMa0ZmRrlQE0arO6siIbS-apsxnsmwv1xj_RavFzsId72KAwLNuI6YH8y63QMmp07Lk7qMb3tDvdJSgvP8Kh4CLh0jh53deFmFyy9JqNjUJVDHHgr2mo3nA-qci5YkJhz_3pW78Ue11ku6U7vZcXfZcMymPKGRyS92GpMJp0zs6LQTGaTudlwFwb2-ihXuwuf11OYWuxpxzxQHajGDVtKufxBojUG0NEbiI88iG5Cai7I-NfoLHIza6FM44Zh3xBG_s0C6GO6U1bbYDpTojlDOv2Y0iDKG6ex7hcLIW-hVjcDZcag7Q-_Cg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Residencia en LOCALIDAD o bien comunicado con la tienda  para trabajar con un contrato de jornada de 16h \r\nExperiencia como vendedor en sector textil\r\nDisponibilidad de incorporación INMEDIATA.\r\nDisponibilidad horaria de tardes",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "c8e4f708b84c3585cc7b77f49c3792",
+            "title": "AGENTE COMERCIAL INMOBILIARIO",
+            "province": {
+                "id": 20,
+                "value": "Las Palmas"
+            },
+            "city": "Las Palmas de Gran Canaria",
+            "link": "https://www.infojobs.net/las-palmas-de-gran-canaria/agente-comercial-inmobiliario/of-ic8e4f708b84c3585cc7b77f49c3792",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 650,
+                "value": "100.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "teleworking": {
+                "id": 2,
+                "value": "Solo teletrabajo"
+            },
+            "published": "2023-05-23T21:09:02.000Z",
+            "updated": "2023-05-23T21:09:02.000Z",
+            "author": {
+                "id": "10211452505157545251501017174246614841",
+                "privateId": 32317449692,
+                "name": "SAFTI",
+                "uri": "https://safti.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/14/14502ba3-3930-4b86-a661-98aa67f8ee53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjUwOTQ4MjgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xNC8xNDUwMmJhMy0zOTMwLTRiODYtYTY2MS05OGFhNjdmOGVlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.V_JRuClO3bQw-d54XJnqjMIEe85FpxHeSKm_LZ1KECHVDzFBpMFdc-DyP-UUEVozJGQFaJPRNoTmOVT_IzCju51fspDXHgSfmqYsQbWoC6yuJpSseNcF5sunXi16qeB9W_fxdWMe58A23R2auQwhz7-mOFjrjyO1pvK-6e4BTotkZzrly6lLA7RWodBc4zrME8Ie6hSnLsfaGacsqWYjrnXX-x_3h39su7r5aNJvgBGvpAU7PSDVwDqXPapyi-1uauu2xKwr1l7af-qAvqris8JFOlfaRhXcGz41pzQjxuYb2vy1MzLfy6rkGwWY1kLjxdU1xPt_MPF7My4tvrCEvA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "1. Excelentes habilidades de comunicación. \n2. Ética y profesionalismo. \n3. Capacidad para resolver problemas y tomar decisiones. \n4. Habilidad comercial para negociar y cerrar ventas. \n5. Excelente habilidad de servicio al cliente. \n6. Competencia en el uso de herramientas tecnológicas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "1b481a42ec415f94f149eec9a96fc4",
+            "title": "AGENTE COMERCIAL INMOBILIARIO",
+            "province": {
+                "id": 36,
+                "value": "Murcia"
+            },
+            "city": "Murcia",
+            "link": "https://www.infojobs.net/murcia/agente-comercial-inmobiliario/of-i1b481a42ec415f94f149eec9a96fc4",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 650,
+                "value": "100.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "teleworking": {
+                "id": 2,
+                "value": "Solo teletrabajo"
+            },
+            "published": "2023-05-23T21:06:23.000Z",
+            "updated": "2023-05-23T21:06:23.000Z",
+            "author": {
+                "id": "10211452505157545251501017174246614841",
+                "privateId": 32317449692,
+                "name": "SAFTI",
+                "uri": "https://safti.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/14/14502ba3-3930-4b86-a661-98aa67f8ee53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjUwOTQ4MjgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xNC8xNDUwMmJhMy0zOTMwLTRiODYtYTY2MS05OGFhNjdmOGVlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.V_JRuClO3bQw-d54XJnqjMIEe85FpxHeSKm_LZ1KECHVDzFBpMFdc-DyP-UUEVozJGQFaJPRNoTmOVT_IzCju51fspDXHgSfmqYsQbWoC6yuJpSseNcF5sunXi16qeB9W_fxdWMe58A23R2auQwhz7-mOFjrjyO1pvK-6e4BTotkZzrly6lLA7RWodBc4zrME8Ie6hSnLsfaGacsqWYjrnXX-x_3h39su7r5aNJvgBGvpAU7PSDVwDqXPapyi-1uauu2xKwr1l7af-qAvqris8JFOlfaRhXcGz41pzQjxuYb2vy1MzLfy6rkGwWY1kLjxdU1xPt_MPF7My4tvrCEvA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "1. Excelentes habilidades de comunicación. \n2. Ética y profesionalismo. \n3. Capacidad para resolver problemas y tomar decisiones. \n4. Habilidad comercial para negociar y cerrar ventas. \n5. Excelente habilidad de servicio al cliente. \n6. Competencia en el uso de herramientas tecnológicas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3448dff2e6420ca8db6eb57facfd1a",
+            "title": "Vendedor/a - Indefinido - 8h disp. fines de semana -CORTEFIEL- C/ COLÓN",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/vendedor-indefinido-8h-disp.-fines-semana-cortefiel-c-colon/of-i3448dff2e6420ca8db6eb57facfd1a",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:04:54.000Z",
+            "updated": "2023-05-23T21:04:54.000Z",
+            "author": {
+                "id": "4c5fa8d2004e6e9fb2a4d0c027a500",
+                "privateId": 8333023996,
+                "name": "Cortefiel Ofertas Tienda",
+                "uri": "https://cortefiel.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/87/87f16fef-a295-4e58-973d-9187734b6463?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDExNjIwNzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84Ny84N2YxNmZlZi1hMjk1LTRlNTgtOTczZC05MTg3NzM0YjY0NjMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jtUahtkRwWc5HHIgYff1GBjgfEUc6kTyMa0ZmRrlQE0arO6siIbS-apsxnsmwv1xj_RavFzsId72KAwLNuI6YH8y63QMmp07Lk7qMb3tDvdJSgvP8Kh4CLh0jh53deFmFyy9JqNjUJVDHHgr2mo3nA-qci5YkJhz_3pW78Ue11ku6U7vZcXfZcMymPKGRyS92GpMJp0zs6LQTGaTudlwFwb2-ihXuwuf11OYWuxpxzxQHajGDVtKufxBojUG0NEbiI88iG5Cai7I-NfoLHIza6FM44Zh3xBG_s0C6GO6U1bbYDpTojlDOv2Y0iDKG6ex7hcLIW-hVjcDZcag7Q-_Cg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Residencia en LOCALIDAD o bien comunicado con la tienda para trabajar con un contrato de jornada de 8h \r\nExperiencia como vendedor en sector textil\r\nDisponibilidad de incorporación INMEDIATA.\r\nDisponibilidad horaria de fines de semana.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "d0babcecfa41ffb57ee26b2160ab64",
+            "title": "Vendedor/a - Indefinido - 8h disp. fines de semana -WOMEN´SECRET- C.C OCIOPIA, ORIHUELA",
+            "province": {
+                "id": 4,
+                "value": "Alicante/Alacant"
+            },
+            "city": "Orihuela",
+            "link": "https://www.infojobs.net/orihuela/vendedor-indefinido-8h-disp.-fines-semana-women-secret-c.c-ociopia-orihuela/of-id0babcecfa41ffb57ee26b2160ab64",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-23T21:02:00.000Z",
+            "updated": "2023-05-23T21:02:00.000Z",
+            "author": {
+                "id": "6eb84b6763404aab7626dd334c6645",
+                "privateId": 8333021672,
+                "name": "Women´secret Ofertas Tienda",
+                "uri": "https://womens-secret.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/20/20ca2de7-2b78-48aa-ba41-16aee0cc1d09?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTc4NTMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yMC8yMGNhMmRlNy0yYjc4LTQ4YWEtYmE0MS0xNmFlZTBjYzFkMDkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Flr05Rsph6e6bmlC4NbQsI00AWnYn9AhkQPjDMjM8cH66rouZwFwEtn8KV_JVbgPtZqY8j1g13cZo_5zKs3GbIbUQ6g7qpKBQayS5uAWXHrL478m4LiUOA_KzUnEzRT1nzfOgsiErqa2OrMds8kCxk4vhJdWtpa971nUQtsmAoSOlJCJgALpD4l07YM0wK4YJ8i7C4Nv-K5nDaeBskRDB3m3JEfo3G0nRk71vuEYXN7fAATKRR5qKtbKojI24bA86zQI2Fw49Y7umSE3kzNBryxbxWwvxEEjRytX54BiPqSvPIInwYFBua4E6A3qPUASjNwSsomvt-iG-GWH0XVbSg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Residencia en LOCALIDAD o bien comunicado con la tienda para trabajar con un contrato de jornada de 8h \r\nExperiencia como vendedor en sector textil\r\nDisponibilidad de incorporación INMEDIATA.\r\nDisponibilidad horaria de fines de semana.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "9571b16edb4e5eaafb335a72d44a81",
+            "title": "AGENTE COMERCIAL INMOBILIARIO",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Málaga",
+            "link": "https://www.infojobs.net/malaga/agente-comercial-inmobiliario/of-i9571b16edb4e5eaafb335a72d44a81",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 650,
+                "value": "100.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "teleworking": {
+                "id": 2,
+                "value": "Solo teletrabajo"
+            },
+            "published": "2023-05-23T21:00:19.000Z",
+            "updated": "2023-05-23T21:00:19.000Z",
+            "author": {
+                "id": "10211452505157545251501017174246614841",
+                "privateId": 32317449692,
+                "name": "SAFTI",
+                "uri": "https://safti.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/14/14502ba3-3930-4b86-a661-98aa67f8ee53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjUwOTQ4MjgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xNC8xNDUwMmJhMy0zOTMwLTRiODYtYTY2MS05OGFhNjdmOGVlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.V_JRuClO3bQw-d54XJnqjMIEe85FpxHeSKm_LZ1KECHVDzFBpMFdc-DyP-UUEVozJGQFaJPRNoTmOVT_IzCju51fspDXHgSfmqYsQbWoC6yuJpSseNcF5sunXi16qeB9W_fxdWMe58A23R2auQwhz7-mOFjrjyO1pvK-6e4BTotkZzrly6lLA7RWodBc4zrME8Ie6hSnLsfaGacsqWYjrnXX-x_3h39su7r5aNJvgBGvpAU7PSDVwDqXPapyi-1uauu2xKwr1l7af-qAvqris8JFOlfaRhXcGz41pzQjxuYb2vy1MzLfy6rkGwWY1kLjxdU1xPt_MPF7My4tvrCEvA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "1. Excelentes habilidades de comunicación. \n2. Ética y profesionalismo. \n3. Capacidad para resolver problemas y tomar decisiones. \n4. Habilidad comercial para negociar y cerrar ventas. \n5. Excelente habilidad de servicio al cliente. \n6. Competencia en el uso de herramientas tecnológicas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "bf3d5384c04aa38496fe01a41a7fa6",
+            "title": "Arquitecto / Técnico con inglés",
+            "province": {
+                "id": 4,
+                "value": "Alicante/Alacant"
+            },
+            "city": "Torrevieja",
+            "link": "https://www.infojobs.net/torrevieja/arquitecto-tecnico-con-ingles/of-ibf3d5384c04aa38496fe01a41a7fa6",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3057,
+                "value": "Arquitectura y proyección"
+            },
+            "salaryMin": {
+                "id": 160,
+                "value": "1.500 €"
+            },
+            "salaryMax": {
+                "id": 1140,
+                "value": "2.000 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 6,
+                "value": "Intensiva - Mañana"
+            },
+            "study": {
+                "id": 120,
+                "value": "Ingeniería Técnica"
+            },
+            "teleworking": {
+                "id": 3,
+                "value": "Híbrido"
+            },
+            "published": "2023-05-16T20:56:08.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98485755545952651101162022194909811324",
+                "privateId": 46656916352,
+                "name": "ARQUITECTOS MAB",
+                "uri": "https://www.infojobs.net/arquitectos-mab/em-i98485755545952651101162022194909811324",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "idiomas",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "1.500€ - 2.000€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "4a8fb6684f4f3fa34987b185a9397e",
+            "title": "MANICURISTA",
+            "province": {
+                "id": 20,
+                "value": "Las Palmas"
+            },
+            "city": "Arrecife",
+            "link": "https://www.infojobs.net/arrecife/manicurista/of-i4a8fb6684f4f3fa34987b185a9397e",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3086,
+                "value": "Estética y cosmética"
+            },
+            "salaryMin": {
+                "id": 140,
+                "value": "900 €"
+            },
+            "salaryMax": {
+                "id": 1080,
+                "value": "1.100 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 160,
+                "value": "Otros títulos, certificaciones y carnés"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-19T16:05:35.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "10652525654534977698264023195673305914",
+                "privateId": 47814242480,
+                "name": "MERAKI AESTHETIC",
+                "uri": "https://www.infojobs.net/meraki-aesthetic/em-i10652525654534977698264023195673305914",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "900€ - 1.100€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "d619b7e8ca4acebc07a360f5f1bf93",
+            "title": "RESPONSABLE ASESORIA CONTABLE",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/responsable-asesoria-contable/of-id619b7e8ca4acebc07a360f5f1bf93",
+            "category": {
+                "id": 10,
+                "value": "Administración de empresas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3005,
+                "value": "Finanzas y contabilidad"
+            },
+            "salaryMin": {
+                "id": 1300,
+                "value": "20.000 €"
+            },
+            "salaryMax": {
+                "id": 1330,
+                "value": "25.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-03-28T17:19:51.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98575551524750758269832021147640611067",
+                "privateId": 43106428406,
+                "name": "KRESTON IBERAUDIT FRP SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/kreston-iberaudit-frp-sociedad-limitada./em-i98575551524750758269832021147640611067",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "CONTABILIDAD -FISCALIDAD- SAGE",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "20.000€ - 25.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "f62dd56a40440d9307400e391a0b0b",
+            "title": "JEFE DE OBRA",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/jefe-obra/of-if62dd56a40440d9307400e391a0b0b",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3059,
+                "value": "Ingeniería civil y obras públicas"
+            },
+            "salaryMin": {
+                "id": 290,
+                "value": "36.000 €"
+            },
+            "salaryMax": {
+                "id": 980,
+                "value": "43.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 120,
+                "value": "Ingeniería Técnica"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-02T19:45:39.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98545352525651739069828017085106808573",
+                "privateId": 31697910134,
+                "name": "IZER",
+                "uri": "https://www.infojobs.net/izer/em-i98545352525651739069828017085106808573",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/cd/cd59fe90-701b-4b21-925e-587ba36dc6ab?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTEyNjcwNzYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jZC9jZDU5ZmU5MC03MDFiLTRiMjEtOTI1ZS01ODdiYTM2ZGM2YWIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.iVz8AkvSAn37l4ydmKengWWJfCTmkEGyaoKyTFyyQqZgo88hLdZQhp7rn68dTWNL14guyEcXXmzGRwFSkAgqINAdOYKlSQnPvjvd17dWmJ9f96lqoq4X0ACphKprbOkd5I7Fdr7LLfMWobqgq0HPNqrEWn9tPkjvikmRPc-372p3MU8lneXb_PehU5S5VvcRCjkT_9p5T96NScShhb9_pSGyHs1yRr3jGulGxOxN2bs2AMlt0zB6JeREVsiETHrqwP2STru7s1YV3ssiGaiWYlICBRolPJFaOqT2lf2hXvV-uXmitVi0Aj6Omdg6mfV5BbGIX-X4Q575sti_WBvp-A&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "TCQ Y BEDEC\r\nAUTOCAD\r\nMICROSOFT PROJECT\r\nOFFICE AVANZADO",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 32,
+            "executive": false,
+            "salaryDescription": "36.000€ - 43.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "6a7a93a68947b1ab9a0e7dbd358430",
+            "title": "Ayudante de cocina",
+            "province": {
+                "id": 51,
+                "value": "Vizcaya/Bizkaia"
+            },
+            "city": "Erandio",
+            "link": "https://www.infojobs.net/erandio/ayudante-cocina/of-i6a7a93a68947b1ab9a0e7dbd358430",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 4,
+                "value": "A tiempo parcial"
+            },
+            "subcategory": {
+                "id": 3115,
+                "value": "Hostelería"
+            },
+            "salaryMin": {
+                "id": 410,
+                "value": "10.000 €"
+            },
+            "salaryMax": {
+                "id": 410,
+                "value": "10.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-25T19:12:57.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98575350495554906982854023155161404969",
+                "privateId": 47768677078,
+                "name": "ZERUNAIT CAFE SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/zerunait-cafe-sociedad-limitada./em-i98575350495554906982854023155161404969",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "10.000€ - 10.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "85d94ee7b94b20bf56ce7443b9fc67",
+            "title": "Patrón de barco",
+            "province": {
+                "id": 5,
+                "value": "Almería"
+            },
+            "city": "Almería",
+            "link": "https://www.infojobs.net/almeria/patron-barco/of-i85d94ee7b94b20bf56ce7443b9fc67",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 410,
+                "value": "10.000 €"
+            },
+            "salaryMax": {
+                "id": 1240,
+                "value": "11.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-04T17:51:23.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98565050535654808279684023047092706559",
+                "privateId": 47679599774,
+                "name": "PRODUCTOS IGARU S.L.",
+                "uri": "https://www.infojobs.net/productos-igaru-s.l./em-i98565050535654808279684023047092706559",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "10.000€ - 11.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "2f00eb09074bda9ec22a618a0d18ff",
+            "title": "Oficial Carrocero de vehículos industriales",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Martorell",
+            "link": "https://www.infojobs.net/martorell/oficial-carrocero-vehiculos-industriales/of-i2f00eb09074bda9ec22a618a0d18ff",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3081,
+                "value": "Automoción"
+            },
+            "salaryMin": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryMax": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 4,
+                "value": "Al menos 4 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-04T17:53:21.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98545550545551837967731018122528612843",
+                "privateId": 34573444136,
+                "name": "SOCIETY AND NEUROBUSINESS EXPERIENCE S.L.",
+                "uri": "https://www.infojobs.net/society-and-neurobusiness-experience-s.l./em-i98545550545551837967731018122528612843",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/9e/9e681469-c1ab-49b3-9756-9736240fdece?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTAyNTE4OTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy85ZS85ZTY4MTQ2OS1jMWFiLTQ5YjMtOTc1Ni05NzM2MjQwZmRlY2UiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.WK_0ijr63y6DPKv0bUWP30QkenJlqcD-OJGhT9iUyV9ZJgtMX9l81zJPvD0NJK_3cz2dz8mlSBI-IGrhXaauqajEzfX06YghT7o8CqAxyNnpWzAHZ4W2R5kSegjP0KTcZS_Y-HX5Z2-lggMrsWpx9PuBvMwk83P6_L23CkNlYJH0tVH_hJHy-lqLbTVrAJSsq8wE9JetVKsNTN9ElHzE8IhFrP5FMVcDtuwPLfkmTXLp8m1ZwbcUkYfDRS82tE3KDrmvBOZLr-JYNVTR5-H1BxkYFv-Y2GiQfXJi7PkhMeg90X87cnI-KngT4v6pUCbquoiK8JDCOe57t76e1_Dydw&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Buscamos un profesional Oficial de 1ª con al menos 4 años de experiencia en reparación de carrocería de vehículos industriales o automoción. \r\nConocimientos de Soldadura\r\nCarné de conducir\r\n\r\nHorario de trabajo rotativo: de 08:00h a 15:30h de L a V y 10.00h a 19:00h de L a V y sábados de 8,30 a 13,30",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "23.000€ - 24.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "a81527c35b48418bc1a5a90d42cf01",
+            "title": "PIANISTA",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/pianista/of-ia81527c35b48418bc1a5a90d42cf01",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3115,
+                "value": "Hostelería"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 4,
+                "value": "Parcial - Noche"
+            },
+            "study": {
+                "id": 23,
+                "value": "Enseñanzas artísticas (regladas)"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-18T18:38:19.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "49505357575411684797875017173547602574",
+                "privateId": 31259238136,
+                "name": "JULIA SANCHEZ ARROYO",
+                "uri": "https://www.infojobs.net/julia-sanchez-arroyo/em-i49505357575411684797875017173547602574",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "1.300€ - 1.300€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3f4a50eb0948c1889f638d4c4355b6",
+            "title": "Operario/a de limpieza y entrega de vehículos de alquiler",
+            "province": {
+                "id": 26,
+                "value": "Islas Baleares/Illes Balears"
+            },
+            "city": "Mahón",
+            "link": "https://www.infojobs.net/mahon/operario-limpieza-entrega-vehiculos-alquiler/of-i3f4a50eb0948c1889f638d4c4355b6",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 9,
+                "value": "Fijo discontinuo"
+            },
+            "subcategory": {
+                "id": 3118,
+                "value": "Atención al cliente"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-02T19:54:04.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98565352535151675432675023027698306842",
+                "privateId": 47938517818,
+                "name": "C6 CENTER SL",
+                "uri": "https://www.infojobs.net/c6-center-sl/em-i98565352535151675432675023027698306842",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "Más de 1.200€",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "1789ebf14648aeb53287e8f65ac6b7",
+            "title": "DIRECTOR/A COMERCIAL CLINICA DENTAL",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Valdemoro",
+            "link": "https://www.infojobs.net/valdemoro/director-comercial-clinica-dental/of-i1789ebf14648aeb53287e8f65ac6b7",
+            "category": {
+                "id": 140,
+                "value": "Sanidad y salud"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3140,
+                "value": "Odontología"
+            },
+            "salaryMin": {
+                "id": 1330,
+                "value": "25.000 €"
+            },
+            "salaryMax": {
+                "id": 290,
+                "value": "36.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 110,
+                "value": "Diplomatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-11T18:27:27.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98564849504350776578714022286744302592",
+                "privateId": 44431731156,
+                "name": "MANGEMA SL",
+                "uri": "https://www.infojobs.net/mangema-sl/em-i98564849504350776578714022286744302592",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Tener más de 5 años de experiencia en ventas a cliente final y mínimo 3 años como Director dirigiendo y formando equipos, Experto en venta de servicios de odontología o similar, Habilidades comunicativas y de liderazgo, Trabajar bien bajo una presión considerable, Iniciativa. Buscamos una persona con alta capacidad de responsabilidad, habilidades de comunicación y con clara orientación a la consecución de objetivos comerciales, con disponibilidad para trabajar en horario de 10-13,30 y 16-20,30 horas de lunes a viernes. Incorporación inmediata.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "25.000€ - 36.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "e095ff08a5426591ce334c875cdf28",
+            "title": "Arquitecto/a",
+            "province": {
+                "id": 49,
+                "value": "Valencia/València"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/arquitecto/of-ie095ff08a5426591ce334c875cdf28",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3058,
+                "value": "Dirección y gestión de obras"
+            },
+            "salaryMin": {
+                "id": 280,
+                "value": "30.000 €"
+            },
+            "salaryMax": {
+                "id": 960,
+                "value": "40.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 140,
+                "value": "Licenciatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-03-28T17:02:47.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98495455485154686977653023286732602327",
+                "privateId": 47615797042,
+                "name": "DEMAERK GESTION DE PROYECTOS SL.",
+                "uri": "https://www.infojobs.net/demaerk-gestion-de-proyectos-sl./em-i98495455485154686977653023286732602327",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "30.000€ - 40.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "1af4537cfc40a697aee8510d31c822",
+            "title": "Administrativo/a",
+            "province": {
+                "id": 31,
+                "value": "Lleida"
+            },
+            "city": "Lleida",
+            "link": "https://www.infojobs.net/lleida/administrativo/of-i1af4537cfc40a697aee8510d31c822",
+            "category": {
+                "id": 10,
+                "value": "Administración de empresas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3000,
+                "value": "Administración"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 2,
+                "value": "Parcial - Mañana"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-18T18:55:51.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98505356525248678377324023187407802301",
+                "privateId": 47803729292,
+                "name": "CSM TERRES DE LLEIDA SL.",
+                "uri": "https://www.infojobs.net/csm-terres-de-lleida-sl./em-i98505356525248678377324023187407802301",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "abbfb5e27640b797580bc1058d6b72",
+            "title": "Oficial de primera instalador aire acondicionado ",
+            "province": {
+                "id": 53,
+                "value": "Zaragoza"
+            },
+            "city": "Zaragoza",
+            "link": "https://www.infojobs.net/zaragoza/oficial-primera-instalador-aire-acondicionado/of-iabbfb5e27640b797580bc1058d6b72",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3085,
+                "value": "Electricidad"
+            },
+            "salaryMin": {
+                "id": 255,
+                "value": "15.000 €"
+            },
+            "salaryMax": {
+                "id": 1300,
+                "value": "20.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-04T17:52:32.000Z",
+            "updated": "2023-05-23T21:00:02.000Z",
+            "author": {
+                "id": "98555052485249677673774023046991805792",
+                "privateId": 47679497678,
+                "name": "CLIMATICA ENERGIA SOLAR Y CLIMA SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/climatica-energia-solar-y-clima-sociedad-limitada./em-i98555052485249677673774023046991805792",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "15.000€ - 20.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        }
+    ]
+}
