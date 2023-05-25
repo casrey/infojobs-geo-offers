@@ -8,14 +8,44 @@ const map = new mapboxgl.Map({
     projection: 'mercator'
 });
 
-// Add the control to the map.
-map.addControl(
-    new MapboxGeocoder({
-    accessToken: mapboxgl.accessToken,
-    mapboxgl: mapboxgl
-    })
-    );
+// Llamar a la función centrarMapa con los parámetros adecuados
+var ciudad = 'Barcelona';
+var zoomLevel = 9;
+const coordenadas = obtenerCoordenadas(ciudad, zoomLevel);
+console.log(coordenadas)
 
+// Definir una función llamada obtenerCoordenadas
+function obtenerCoordenadas(ciudad, zoomLevel) {
+  
+    // Esperar a que el mapa cargue completamente
+    map.on('load', function() {
+      // Hacer una solicitud a la API Geocoding de Mapbox para obtener las coordenadas de la ciudad
+      var geocodingUrl = 'https://api.mapbox.com/geocoding/v5/mapbox.places/' + ciudad + '.json?access_token=' + mapboxgl.accessToken;
+  
+      fetch(geocodingUrl)
+        .then(function(response) {
+          return response.json();
+        })
+        .then(function(data) {
+          // Obtener las coordenadas de la primera coincidencia geocodificada
+          var coordinates = data.features[0].center;
+          console.log(coordinates)
+
+          // Centrar el mapa en las coordenadas obtenidas con el nivel de zoom deseado
+          map.flyTo({
+            center: coordinates,
+            zoom: zoomLevel,
+            essential: true // Esto asegura que el mapa se centre y haga zoom de manera suave
+          });
+
+          const jsonCoordinates = JSON.stringify(coordinates);
+
+          return jsonCoordinates
+        });
+    });
+  }
+
+// Add zoom and rotation controls to the map.
 map.addControl(new mapboxgl.NavigationControl());
 
 // filters for classifying earthquakes into five categories based on magnitude
