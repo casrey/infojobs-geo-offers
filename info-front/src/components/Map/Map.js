@@ -42,7 +42,7 @@ const Map = () => (
     <Title>Newsletter revenue over time (USD)</Title>
     <AreaChart
       data={chartdata}
-      className="h-max"
+      className="h-4/6"
       index="date"
       categories={["SemiAnalysis", "The Pragmatic Engineer"]}
       colors={["indigo", "cyan"]}
