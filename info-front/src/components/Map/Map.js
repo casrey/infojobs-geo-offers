@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { Card, Title } from "@tremor/react";
 import React, { useRef, useEffect, useState } from "react";
 import "./style.css";
@@ -20,7 +21,7 @@ const Map = () => {
       center: [lng, lat],
       zoom: zoom,
     });
-  });
+  }, []);
 
   return (
     <Card className="h-full">
