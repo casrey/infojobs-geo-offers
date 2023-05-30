@@ -8,11 +8,19 @@ import Search from "../../components/Search/Search";
 import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 
 import { OFFERS_QUERY } from "../../api";
+import { serializeAdvanceFilters } from "../../utils";
 
 const Layout = () => {
-  const [searchParam, setSearchParam] = React.useState('');
+  const [searchParam, setSearchParam] = React.useState("");
+  const [advancedFilters, setAdvancedFilters] = React.useState({ country: "" });
 
-  const { refetch } = OFFERS_QUERY(searchParam, setSearchParam);
+  const { refetch } = OFFERS_QUERY({ searchParam, advancedFilters });
+
+  React.useEffect(() => {
+    if (!!serializeAdvanceFilters(advancedFilters)) {
+      refetch();
+    }
+  }, [advancedFilters, refetch]);
 
   return (
     <Grid numCols={1} numColsSm={2} numColsLg={4} className="gap-2 h-full">
@@ -24,7 +32,11 @@ const Layout = () => {
         />
       </Col>
       <Col numColSpan={4} numColSpanLg={4}>
-        <AdvancedFilters />
+        <AdvancedFilters
+          advancedFilters={advancedFilters}
+          setAdvancedFilters={setAdvancedFilters}
+          refetch={refetch}
+        />
       </Col>
 
       <Col numColSpan={3} numColSpanLg={3}>
