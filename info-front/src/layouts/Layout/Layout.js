@@ -10,7 +10,7 @@ import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 import { OFFERS_QUERY } from "../../api";
 
 const Layout = () => {
-  const [searchParam, setSearchParam] = React.useState();
+  const [searchParam, setSearchParam] = React.useState('');
 
   const { refetch } = OFFERS_QUERY(searchParam, setSearchParam);
 
