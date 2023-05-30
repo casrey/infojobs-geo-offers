@@ -1,7 +1,5 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-import { Card, Title } from "@tremor/react";
+import { Card } from "@tremor/react";
 import React, { useRef, useEffect, useState } from "react";
-import "./style.css";
 import mapboxgl from "!mapbox-gl"; // eslint-disable-line import/no-webpack-loader-syntax
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
@@ -21,12 +19,12 @@ const Map = () => {
       center: [lng, lat],
       zoom: zoom,
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
     <Card className="h-full">
-      <Title>Jobs For You</Title>
-      <div ref={mapContainer} className="map-container" />
+      <div ref={mapContainer} className="h-full" />
     </Card>
   );
 };

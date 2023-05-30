@@ -1,6 +1,6 @@
 import React from "react";
 
-import { TextInput } from "@tremor/react";
+import { TextInput, Text } from "@tremor/react";
 import { SearchIcon } from "@heroicons/react/solid";
 
 const Search = ({ searchParam, setSearchParam, refetch }) => {
@@ -10,7 +10,7 @@ const Search = ({ searchParam, setSearchParam, refetch }) => {
     },
     [setSearchParam]
   );
-
+  /* 
   const handleKeyPress = React.useCallback(
     (event) => {
       if (event.key === "Enter" && !!searchParam) {
@@ -19,17 +19,21 @@ const Search = ({ searchParam, setSearchParam, refetch }) => {
       }
     },
     [refetch, searchParam]
-  );
+  ); */
 
   return (
-    <TextInput
-      type="text"
-      icon={SearchIcon}
-      placeholder="Escribe la palabra clave para buscar"
-      onKeyPress={handleKeyPress}
-      onChange={handleInputChange}
-      value={searchParam}
-    />
+    <>
+      <Text>Escribe la palabra clave</Text>
+      <TextInput
+        className="mt-2"
+        type="text"
+        icon={SearchIcon}
+        placeholder="Busca por palabra clave"
+        //onKeyPress={handleKeyPress}
+        onChange={handleInputChange}
+        value={searchParam}
+      />
+    </>
   );
 };
 

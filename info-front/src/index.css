@@ -11,6 +11,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.mapboxgl-control-container {
+  display: none;
+}
+
+.mapboxgl-canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

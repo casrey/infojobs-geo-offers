@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "text": "",
+    "order": 0,
+    "key": ""
+  },
+  {
+    "id": 20,
+    "value": "Administración Pública",
+    "order": 1,
+    "key": "administracion-publica"
+  },
+  {
+    "id": 10,
+    "text": "Administración de empresas",
+    "order": 2,
+    "key": "administracion-empresas"
+  },
+  {
+    "id": 170,
+    "text": "Atención a clientes",
+    "order": 3,
+    "key": "atencion-a-cliente"
+  },
+  {
+    "id": 30,
+    "text": "Calidad, producción e I+D",
+    "order": 4,
+    "key": "calidad-produccion-id"
+  },
+  {
+    "id": 190,
+    "text": "Comercial y ventas",
+    "order": 5,
+    "key": "comercial-ventas"
+  },
+  {
+    "id": 40,
+    "text": "Compras, logística y almacén",
+    "order": 6,
+    "key": "compras-logistica-almacen"
+  },
+  {
+    "id": 50,
+    "text": "Diseño y artes gráficas",
+    "order": 7,
+    "key": "diseno-artes-graficas"
+  },
+  {
+    "id": 60,
+    "text": "Educación y formación",
+    "order": 8,
+    "key": "educacion-formacion"
+  },
+  {
+    "id": 70,
+    "text": "Finanzas y banca",
+    "order": 9,
+    "key": "finanzas-banca"
+  },
+  {
+    "id": 150,
+    "text": "Informática y telecomunicaciones",
+    "order": 10,
+    "key": "informatica-telecomunicaciones"
+  },
+  {
+    "id": 80,
+    "text": "Ingenieros y técnicos",
+    "order": 11,
+    "key": "ingenieros-tecnicos"
+  },
+  {
+    "id": 90,
+    "text": "Inmobiliario y construcción",
+    "order": 12,
+    "key": "inmobiliario-construccion"
+  },
+  {
+    "id": 100,
+    "text": "Legal",
+    "order": 13,
+    "key": "legal"
+  },
+  {
+    "id": 110,
+    "text": "Marketing y comunicación",
+    "order": 14,
+    "key": "marketing-comunicacion"
+  },
+  {
+    "id": 120,
+    "text": "Profesiones, artes y oficios",
+    "order": 15,
+    "key": "profesiones-artes-oficios"
+  },
+  {
+    "id": 130,
+    "text": "Recursos humanos",
+    "order": 16,
+    "key": "recursos-humanos"
+  },
+  {
+    "id": 140,
+    "text": "Sanidad y salud",
+    "order": 17,
+    "key": "sanidad-salud"
+  },
+  {
+    "id": 210,
+    "text": "Sector Farmacéutico",
+    "order": 18,
+    "key": "sector-farmaceutico"
+  },
+  {
+    "id": 160,
+    "text": "Turismo y restauración",
+    "order": 19,
+    "key": "turismo-restauracion"
+  },
+  {
+    "id": 200,
+    "text": "Ventas al detalle",
+    "order": 20,
+    "key": "venta-detalle"
+  },
+  {
+    "id": 180,
+    "text": "Otros",
+    "order": 21,
+    "key": "otros"
+  }
+]
