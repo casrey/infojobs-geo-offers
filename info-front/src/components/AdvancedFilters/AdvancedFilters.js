@@ -1,7 +1,7 @@
 import { Card, Col, Grid, Button } from "@tremor/react";
 import countries from "../../fixtures/countries.json";
 //import cities from "../../fixtures/cities.json";
-import categories from "../../fixtures/categories.json";
+import teleworking from "../../fixtures/teleworking.json";
 import DropdownFilter from "../DropdownFilter/DropdownFilter";
 import SliderFilter from "../SliderFilter/SliderFilter";
 import Search from "../../components/Search/Search";
@@ -48,10 +48,10 @@ const AdvancedFilters = ({
           <DropdownFilter
             advancedFilters={advancedFilters}
             setAdvancedFilters={setAdvancedFilters}
-            title="Selecciona la categoria"
-            inputPlaceholder="Busca por categoria"
-            field="category"
-            options={categories}
+            title="Selecciona modalidad"
+            inputPlaceholder="Busca por modalidad"
+            field="teleworking"
+            options={teleworking}
           />
         </Col>
         <Col
