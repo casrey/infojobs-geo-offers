@@ -18,7 +18,7 @@ const Layout = () => {
   if (data && isSuccess) {
     console.log(data);
     console.log(getCityJobsFrecuency(data.offers), ' JSON CON CANTIDAD POR CIUDAD');
-    const frecuencyCityJobs = getCityJobsFrecuency(data.offers);
+    // const frecuencyCityJobs = getCityJobsFrecuency(data.offers);
     // console.log(data.features[0].center, ' HOLAAA');
   }
 

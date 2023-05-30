@@ -3,7 +3,7 @@ import { useState } from "react";
 const getCityJobsFrecuency = (offers) => {
 
 	const cities = offers.map((job) => job.city);
-	let cityCount = [];
+	let cityCount = {};
 
 	cities.forEach((city) => {
 		if (cityCount[city]) {
@@ -55,4 +55,4 @@ const CreateFeature = (json) => {
 
 
 
-export { getCityJobsFrecuency, CreateFeature };
+export default getCityJobsFrecuency;
