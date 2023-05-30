@@ -11,3 +11,12 @@ export const OFFERS_QUERY = (searchParam, debouncedFilter) => ({
   },
   enabled: !!searchParam && Boolean(debouncedFilter),
 });
+
+export const GET_PLACE_COORD = (city, zoom) => ({
+  queryKey: ["get_coordinates"],
+  queryFn: async () => {
+    const data = await fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/'${city}.json?access_token=${process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}`)
+    return data;
+  }
+
+});

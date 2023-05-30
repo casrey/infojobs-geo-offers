@@ -9,15 +9,19 @@ import RightContainer from "../RightContainer/RightContainer";
 import Search from "../../components/Search/Search";
 import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 
-import { OFFERS_QUERY } from "../../api";
+import { OFFERS_QUERY, GET_PLACE_COORD } from "../../api";
 
 const Layout = () => {
   const [searchParam, setSearchParam] = React.useState();
   const debouncedFilter = useDebounce(searchParam, 500);
 
   const offers = useQuery(OFFERS_QUERY(searchParam, debouncedFilter));
+  const getCoord = useQuery(GET_PLACE_COORD('Colombia', 3));
 
   console.log({ offers });
+  console.log({ getCoord });
+  console.log(' CROOOD: ', getCoord.features);
+
 
   return (
     <Grid numCols={1} numColsSm={2} numColsLg={4} className="gap-2 h-full">
