@@ -64,7 +64,7 @@ const OffersTable = ({
       )}
       {!isFetchingOffers && !isLoading && offers.length > 0 && (
         <div className="text-center">
-          <Table className="mt-5 max-h-96 overflow-scroll overflow-x-hidden w-full">
+          <Table className="mt-5 max-h-80 overflow-scroll overflow-x-hidden w-full">
             <TableHead>
               <TableRow>
                 <TableHeaderCell>Cargo</TableHeaderCell>

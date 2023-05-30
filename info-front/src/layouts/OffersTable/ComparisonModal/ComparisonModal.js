@@ -19,7 +19,7 @@ const ComparisonModal = ({
         <Grid
           numCols={1}
           numColsLg={selectedOffers.length}
-          className="gap-4 bg-neutral-50 p-8 relative m-auto w-9/12 top-20"
+          className="gap-4 bg-neutral-50 p-2 relative m-auto w-9/12 top-20"
         >
           {selectedOffers?.map(
             ({
