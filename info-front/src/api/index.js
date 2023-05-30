@@ -7,7 +7,7 @@ export const OFFERS_QUERY = ({ searchParam, advancedFilters }) => {
     queryKey: ["offers"],
     queryFn: async () => {
       const data = await fetch(
-        `/offer?q=${searchParam}${
+        `/offer?maxResults=50&q=${searchParam}${
           serializeAdvanceFilters(advancedFilters)
             ? `&${serializeAdvanceFilters(advancedFilters)}`
             : ""

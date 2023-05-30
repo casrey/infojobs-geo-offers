@@ -1,57 +1,78 @@
-import { useState } from "react";
+import cities from "../fixtures/cities.json";
+
+export let geojson = {
+    type: "FeatureCollection",
+    crs: {
+      type: "name",
+      properties: {
+        name: "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    features: []
+}
+
+/* export const getCityJobsFrecuency2 = (offers) => {
+  useEffectz(() => {
+    const fetchCoordinates = async () => {
+      const cities = offers.map((job) => job.city);
+      const promises = cities.map((city) => getCoord(city));
+      await Promise.all(promises);
+    };
+
+    fetchCoordinates();
+  }, [offers]);
+
+  // Rest of your code
+}; */
+
+const getCoord = (cityToSearch) => {
+
+  const citiesJson = cities.filter((city) => {
+    if(city.properties.city === cityToSearch ){
+      geojson.features.push(city);
+      return city
+    }
+    return
+  })
+  console.log(citiesJson);
+
+};
+  
+
 
 export const getCityJobsFrecuency = (offers) => {
+
   const cities = offers.map((job) => job.city);
   let cityCount = {};
 
   cities.forEach((city) => {
     if (cityCount[city]) {
+      getCoord(city)
+
       cityCount[city]++;
     } else {
       cityCount[city] = 1;
     }
   });
 
-  const jsonResult = {
-    cityCount: cityCount,
-  };
+  const jsonResult = Object.keys(cityCount).map((city) => {
+    return {
+    properties : {
+      city: city,
+      mag: cityCount[city]
+    }
+    };
+  });
 
   const jsonString = JSON.stringify(jsonResult);
   return jsonString;
 };
 
-export const CreateFeature = (json) => {
-  const [city, setCity] = useState("");
-  const [jsonData, setJsonData] = useState({
-    type: "FeatureCollection",
-    crs: {
-      type: "name",
-      properties: { name: "urn:ogc:def:crs:OGC:1.3:CRS84" },
-    },
-    features: [
-      {
-        type: "Feature",
-        properties: { ciudad: "Colombia", frec: 2.3 },
-        geometry: { type: "Point", coordinates: [-151.5129, 63.1016, 0.0] },
-      },
-    ],
-  });
+export const getCitiesFromData = (data) => {
+  const cityCount = data.cityCount;
+  const cities = Object.keys(cityCount);
 
-  const createNewFeature = () => {
-    const newFeature = {
-      type: "Feature",
-      properties: { ciudad: city, frec: 0 },
-      geometry: { type: "Point", coordinates: [0, 0, 0] },
-    };
-
-    const updatedJsonData = {
-      ...jsonData,
-      features: [...jsonData.features, newFeature],
-    };
-
-    setJsonData(updatedJsonData);
-    setCity("");
-  };
+  return cities;
 };
 
 export const serializeAdvanceFilters = (advancedFilters) =>
@@ -76,3 +97,5 @@ export const formatMoney = (number) =>
     minimumFractionDigits: 0,
     maximumFractionDigits: 0,
   }).format(number);
+
+

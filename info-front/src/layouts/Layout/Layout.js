@@ -7,8 +7,8 @@ import RightContainer from "../RightContainer/RightContainer";
 import Search from "../../components/Search/Search";
 import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 
-import { OFFERS_QUERY } from "../../api";
-import getCityJobsFrecuency, { serializeAdvanceFilters } from "../../utils";
+import { OFFERS_QUERY , GET_PLACE_COORD_QUERY } from "../../api";
+import { getCityJobsFrecuency, serializeAdvanceFilters,  getCitiesFromData, getCityJobsFrecuency2, GetCityJobsFrecuency2} from "../../utils";
 
 const Layout = () => {
   const [searchParam, setSearchParam] = React.useState("");
@@ -27,10 +27,17 @@ const Layout = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [advancedFilters, refetch]);
 
+  //const { data } = GET_PLACE_COORD_QUERY('Colombia', 3);
+
     // const { data } = GET_PLACE_COORD_QUERY('Colombia', 3);
   if (data && isSuccess) {
-    console.log(data);
+    
+    //console.log(data.features[0].center, ' HOLAAA');
+
     console.log(getCityJobsFrecuency(data.offers), ' JSON CON CANTIDAD POR CIUDAD');
+
+    //const cities = getCitiesFromData(getCityJobsFrecuency(data.offers));
+    //console.log(cities);
     // const frecuencyCityJobs = getCityJobsFrecuency(data.offers);
     // console.log(data.features[0].center, ' HOLAAA');
   }
