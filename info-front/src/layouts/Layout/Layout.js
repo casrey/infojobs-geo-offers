@@ -1,32 +1,29 @@
 import React from "react";
 
 import { Grid, Col } from "@tremor/react";
-import { useQuery } from "@tanstack/react-query";
 
-import useDebounce from "../../hooks/useDebounce";
 import Map from "../../components/Map/Map";
 import RightContainer from "../RightContainer/RightContainer";
 import Search from "../../components/Search/Search";
 import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 
-import { OFFERS_QUERY, GET_PLACE_COORD } from "../../api";
+import { OFFERS_QUERY, GET_PLACE_COORD_QUERY } from "../../api";
 
 const Layout = () => {
-  const [searchParam, setSearchParam] = React.useState();
-  const debouncedFilter = useDebounce(searchParam, 500);
+  const [searchParam, setSearchParam] = React.useState('');
 
-  const offers = useQuery(OFFERS_QUERY(searchParam, debouncedFilter));
-  const getCoord = useQuery(GET_PLACE_COORD('Colombia', 3));
+  const { refetch } = OFFERS_QUERY(searchParam, setSearchParam);
+  const { data } = GET_PLACE_COORD_QUERY('Colombia', 3);
 
-  console.log({ offers });
-  console.log({ getCoord });
-  console.log(' CROOOD: ', getCoord.features);
-
-
+  console.log(data.features[0].center, ' HOLAAA');
   return (
     <Grid numCols={1} numColsSm={2} numColsLg={4} className="gap-2 h-full">
       <Col numColSpan={4} numColSpanLg={4}>
-        <Search setSearchParam={setSearchParam} />
+        <Search
+          searchParam={searchParam}
+          setSearchParam={setSearchParam}
+          refetch={refetch}
+        />
       </Col>
       <Col numColSpan={4} numColSpanLg={4}>
         <AdvancedFilters />
