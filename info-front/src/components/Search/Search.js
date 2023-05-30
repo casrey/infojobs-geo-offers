@@ -13,12 +13,12 @@ const Search = ({ searchParam, setSearchParam, refetch }) => {
 
   const handleKeyPress = React.useCallback(
     (event) => {
-      if (event.key === "Enter") {
+      if (event.key === "Enter" && !!searchParam) {
         event.preventDefault();
         refetch();
       }
     },
-    [refetch]
+    [refetch, searchParam]
   );
 
   return (

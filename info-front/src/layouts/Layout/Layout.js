@@ -12,14 +12,19 @@ import { serializeAdvanceFilters } from "../../utils";
 
 const Layout = () => {
   const [searchParam, setSearchParam] = React.useState("");
-  const [advancedFilters, setAdvancedFilters] = React.useState({ country: "" });
+  const [advancedFilters, setAdvancedFilters] = React.useState({
+    country: null,
+    salaryMin: 0,
+    salaryMax: 200_000,
+  });
 
   const { refetch } = OFFERS_QUERY({ searchParam, advancedFilters });
 
   React.useEffect(() => {
-    if (!!serializeAdvanceFilters(advancedFilters)) {
+    if (!!serializeAdvanceFilters(advancedFilters) && !!searchParam) {
       refetch();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [advancedFilters, refetch]);
 
   return (
@@ -35,7 +40,6 @@ const Layout = () => {
         <AdvancedFilters
           advancedFilters={advancedFilters}
           setAdvancedFilters={setAdvancedFilters}
-          refetch={refetch}
         />
       </Col>
 

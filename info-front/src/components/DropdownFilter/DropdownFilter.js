@@ -1,4 +1,4 @@
-import { SelectBox, SelectBoxItem } from "@tremor/react";
+import { SelectBox, SelectBoxItem, Text } from "@tremor/react";
 
 const DropdownFilter = ({
   field,
@@ -7,21 +7,24 @@ const DropdownFilter = ({
   setAdvancedFilters,
 }) => {
   return (
-    <SelectBox
-      className="mt-2"
-      onValueChange={(value) => {
-        setAdvancedFilters((prev) => ({ ...prev, [field]: value }));
-      }}
-      placeholder="Selecciona tu país"
-    >
-      {options.map(({ name, code, flag }) => (
-        <SelectBoxItem
-          key={code}
-          value={name}
-          text={`${field === "country" ? flag : ""} ${name}`}
-        />
-      ))}
-    </SelectBox>
+    <>
+      <Text>Localización</Text>
+      <SelectBox
+        className="mt-2"
+        onValueChange={(value) => {
+          setAdvancedFilters((prev) => ({ ...prev, [field]: value }));
+        }}
+        placeholder="Selecciona tu país"
+      >
+        {options.map(({ name, code, flag }) => (
+          <SelectBoxItem
+            key={code}
+            value={name}
+            text={`${field === "country" ? flag : ""} ${name}`}
+          />
+        ))}
+      </SelectBox>
+    </>
   );
 };
 
