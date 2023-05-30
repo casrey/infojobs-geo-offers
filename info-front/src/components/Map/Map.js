@@ -1,5 +1,4 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-import { Card, Title } from "@tremor/react";
+import { Card } from "@tremor/react";
 import React, { useRef, useEffect, useState } from "react";
 import "./style.css";
 import {
@@ -76,7 +75,6 @@ const Map = () => {
             id="offersForCity"
             type="geojson"
             data={data}
-            // data="https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson"
             cluster={true}
             clusterMaxZoom={14}
             clusterRadius={50}

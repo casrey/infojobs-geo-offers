@@ -8,7 +8,7 @@ const queryClient = new QueryClient({});
 
 function App() {
   return (
-    <main className="bg-slate-50 p-6 sm:p-10 h-screen">
+    <main className="bg-slate-50 sm:p-4 h-screen">
       <QueryClientProvider client={queryClient}>
         <Layout />
       </QueryClientProvider>

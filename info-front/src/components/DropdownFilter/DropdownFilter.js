@@ -5,23 +5,22 @@ const DropdownFilter = ({
   options,
   advancedFilters,
   setAdvancedFilters,
+  title,
+  inputPlaceholder,
 }) => {
   return (
     <>
-      <Text>Localización</Text>
+      <Text>{title}</Text>
       <SelectBox
         className="mt-2"
         onValueChange={(value) => {
           setAdvancedFilters((prev) => ({ ...prev, [field]: value }));
         }}
-        placeholder="Selecciona tu país"
+        defaultValue={null}
+        placeholder={inputPlaceholder}
       >
-        {options.map(({ name, code, flag }) => (
-          <SelectBoxItem
-            key={code}
-            value={name}
-            text={`${field === "country" ? flag : ""} ${name}`}
-          />
+        {options.map(({ id, key, value }) => (
+          <SelectBoxItem key={id} value={key} text={value} />
         ))}
       </SelectBox>
     </>
