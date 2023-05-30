@@ -56,7 +56,6 @@ const Map = () => {
 
   return (
     <Card className="h-full">
-      <Title>Jobs For You</Title>
       {/* <div ref={mapContainer} className="map-container" /> */}
       { geojson.features.length > 0 ? 
         <MapReact
