@@ -1,94 +1,29 @@
-import { Card, Col, Dropdown, DropdownItem, Flex, Text } from "@tremor/react";
-import { CubeIcon, CubeTransparentIcon } from "@heroicons/react/solid";
+import { Card, Col, Flex } from "@tremor/react";
+import countries from "../../fixtures/countries.json";
+import DropdownFilter from "../DropdownFilter/DropdownFilter";
+import SliderFilter from "../SliderFilter/SliderFilter";
 
-const AdvancedFilters = () => {
+const AdvancedFilters = ({ advancedFilters, setAdvancedFilters }) => {
   return (
     <Card>
       <Flex>
         <Col numColSpan={1} numColSpanLg={1}>
-          <Text>Select render mode</Text>
-          <Dropdown
-            className="mt-2"
-            onValueChange={(value) =>
-              console.log("The selected value is", value)
-            }
-            placeholder="Render mode"
-          >
-            <DropdownItem
-              value="1"
-              text="Transparent"
-              icon={CubeTransparentIcon}
-            />
-            <DropdownItem value="2" text="Outline" icon={CubeIcon} />
-          </Dropdown>
+          <DropdownFilter
+            advancedFilters={advancedFilters}
+            setAdvancedFilters={setAdvancedFilters}
+            field="country"
+            options={countries}
+          />
         </Col>
-        <Col numColSpan={1} numColSpanLg={1}>
-          <Text>Select render mode</Text>
-          <Dropdown
-            className="mt-2"
-            onValueChange={(value) =>
-              console.log("The selected value is", value)
-            }
-            placeholder="Render mode"
-          >
-            <DropdownItem
-              value="1"
-              text="Transparent"
-              icon={CubeTransparentIcon}
-            />
-            <DropdownItem value="2" text="Outline" icon={CubeIcon} />
-          </Dropdown>
-        </Col>
-        <Col numColSpan={1} numColSpanLg={1}>
-          <Text>Select render mode</Text>
-          <Dropdown
-            className="mt-2"
-            onValueChange={(value) =>
-              console.log("The selected value is", value)
-            }
-            placeholder="Render mode"
-          >
-            <DropdownItem
-              value="1"
-              text="Transparent"
-              icon={CubeTransparentIcon}
-            />
-            <DropdownItem value="2" text="Outline" icon={CubeIcon} />
-          </Dropdown>
-        </Col>
-        <Col numColSpan={1} numColSpanLg={1}>
-          <Text>Select render mode</Text>
-          <Dropdown
-            className="mt-2"
-            onValueChange={(value) =>
-              console.log("The selected value is", value)
-            }
-            placeholder="Render mode"
-          >
-            <DropdownItem
-              value="1"
-              text="Transparent"
-              icon={CubeTransparentIcon}
-            />
-            <DropdownItem value="2" text="Outline" icon={CubeIcon} />
-          </Dropdown>
-        </Col>
-        <Col numColSpan={1} numColSpanLg={1}>
-          <Text>Select render mode</Text>
-          <Dropdown
-            className="mt-2"
-            onValueChange={(value) =>
-              console.log("The selected value is", value)
-            }
-            placeholder="Render mode"
-          >
-            <DropdownItem
-              value="1"
-              text="Transparent"
-              icon={CubeTransparentIcon}
-            />
-            <DropdownItem value="2" text="Outline" icon={CubeIcon} />
-          </Dropdown>
+        <Col
+          numColSpan={1}
+          numColSpanLg={1}
+          className="flex flex-col items-center"
+        >
+          <SliderFilter
+            advancedFilters={advancedFilters}
+            setAdvancedFilters={setAdvancedFilters}
+          />
         </Col>
       </Flex>
     </Card>
