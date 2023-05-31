@@ -7,7 +7,7 @@ export const OFFERS_QUERY = ({ searchParam, advancedFilters }) => {
     queryKey: ["offers"],
     queryFn: async () => {
       const data = await fetch(
-        `/offer?q=${searchParam}${
+        `https://api.infojobs.net/api/9//offer?q=${searchParam}${
           serializeAdvanceFilters(advancedFilters)
             ? `&${serializeAdvanceFilters(advancedFilters)}`
             : ""
