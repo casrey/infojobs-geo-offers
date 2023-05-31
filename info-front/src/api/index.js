@@ -23,7 +23,9 @@ export const OFFERS_QUERY = ({ searchParam, advancedFilters }) => {
           },
         }
       );
-      return await data.json();
+      const reponse = await data.json();
+      console.log({ reponse });
+      return reponse;
     },
     enabled: false,
   });
