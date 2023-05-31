@@ -1,5 +1,5 @@
 import { Card } from "@tremor/react";
-import React, { useRef, useEffect, useState } from "react";
+import React from "react";
 import {
   clusterLayer,
   clusterCountLayer,
@@ -14,6 +14,28 @@ mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
 const Map = ({ geojson }) => {
   let mapRef;
 
+  const onClick = event => {
+
+    const feature = event.features[0];
+    console.log(feature, ' soy feature');
+    const clusterId = feature.properties.cluster_id;
+    console.log(clusterId, ' soy clusterId');
+
+    const mapboxSource = mapRef.current.getSource('earthquakes');
+
+    mapboxSource.getClusterExpansionZoom(clusterId, (err, zoom) => {
+      if (err) {
+        return;
+      }
+
+      mapRef.current.easeTo({
+        center: feature.geometry.coordinates,
+        zoom,
+        duration: 500
+      });
+    });
+  };
+
   return (
     <Card className="h-full">
         <MapReact
@@ -24,8 +46,9 @@ const Map = ({ geojson }) => {
           }}
           mapStyle="mapbox://styles/mapbox/streets-v12"
           mapboxAccessToken={process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}
-          interactiveLayerIds={[clusterLayer.city]}
+          interactiveLayerIds={[clusterLayer.id]}
           ref={mapRef}
+          // onClick={onClick}
         >
           <Source
             id="offersForCity"
