@@ -6,50 +6,26 @@ import {
   unclusteredPointLayer,
 } from "./layers";
 
-import { geojson } from "../../utils";
-
 import { Map as MapReact, Source, Layer } from "react-map-gl";
 import mapboxgl from "!mapbox-gl"; // eslint-disable-line import/no-webpack-loader-syntax
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
 
-const Map = () => {
+const Map = ({ geojson }) => {
   let mapRef;
-
- 
-
-  // const onClick = (event) => {
-  //   const feature = event.features[0];
-  //   const clustercity = feature.properties.cluster_city;
-
-  //   const mapboxSource = mapRef.current.getSource("earthquakes");
-
-  //   mapboxSource.getClusterExpansionZoom(clustercity, (err, zoom) => {
-  //     if (err) {
-  //       return;
-  //     }
-
-  //     mapRef.current.easeTo({
-  //       center: feature.geometry.coordinates,
-  //       zoom,
-  //       duration: 500,
-  //     });
-  //   });
-  // };
 
   return (
     <Card className="h-full">
-      {/* <div ref={mapContainer} className="map-container" /> */}
-       { geojson.features.length > 0 ? <MapReact
+      {geojson?.features.length > 0 ? (
+        <MapReact
           initialViewState={{
             latitude: 40.463667,
             longitude: -3.74922,
-            zoom: 5
+            zoom: 5,
           }}
           mapStyle="mapbox://styles/mapbox/streets-v12"
           mapboxAccessToken={process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}
-          interactiveLayercitys={[clusterLayer.city]}
-          // onClick={onClick}
+          interactiveLayerIds={[clusterLayer.city]}
           ref={mapRef}
         >
           <Source
@@ -64,7 +40,10 @@ const Map = () => {
             <Layer {...clusterCountLayer} />
             <Layer {...unclusteredPointLayer} />
           </Source>
-        </MapReact> : ''}
+        </MapReact>
+      ) : (
+        ""
+      )}
     </Card>
   );
 };

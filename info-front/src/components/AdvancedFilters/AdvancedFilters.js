@@ -1,6 +1,5 @@
 import { Card, Col, Grid, Button } from "@tremor/react";
 import countries from "../../fixtures/countries.json";
-//import cities from "../../fixtures/cities.json";
 import teleworking from "../../fixtures/teleworking.json";
 import DropdownFilter from "../DropdownFilter/DropdownFilter";
 import SliderFilter from "../SliderFilter/SliderFilter";
@@ -12,6 +11,7 @@ const AdvancedFilters = ({
   searchParam,
   setSearchParam,
   isFetchingOffers,
+  setGeojson,
   refetch,
 }) => {
   return (
@@ -67,7 +67,10 @@ const AdvancedFilters = ({
         <Col className="text-center" numColsSm={4} numColSpanLg={4}>
           <Button
             onClick={() => {
-              !!searchParam && refetch();
+              if (!!searchParam) {
+                refetch();
+                setGeojson();
+              }
             }}
             disabled={isFetchingOffers}
           >

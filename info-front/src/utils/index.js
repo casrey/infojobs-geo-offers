@@ -12,11 +12,10 @@ export let geojson = {
 };
 
 export const getCityJobsFrecuency = (offers) => {
-  
   const cityOffers = offers?.map((job) => job.city);
   const citiesWithGeoData = cityOffers.map(getCoord);
-
-  console.log({ citiesWithGeoData });
+  geojson.features = citiesWithGeoData;
+  return geojson;
 };
 
 const getCoord = (cityToSearch) => {
