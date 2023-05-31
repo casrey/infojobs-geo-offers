@@ -1,71 +1,32 @@
 import cities from "../fixtures/cities.json";
 
 export let geojson = {
-    type: "FeatureCollection",
-    crs: {
-      type: "name",
-      properties: {
-        name: "urn:ogc:def:crs:OGC:1.3:CRS84"
-      }
+  type: "FeatureCollection",
+  crs: {
+    type: "name",
+    properties: {
+      name: "urn:ogc:def:crs:OGC:1.3:CRS84",
     },
-    features: []
-}
-
-/* export const getCityJobsFrecuency2 = (offers) => {
-  useEffectz(() => {
-    const fetchCoordinates = async () => {
-      const cities = offers.map((job) => job.city);
-      const promises = cities.map((city) => getCoord(city));
-      await Promise.all(promises);
-    };
-
-    fetchCoordinates();
-  }, [offers]);
-
-  // Rest of your code
-}; */
-
-const getCoord = (cityToSearch) => {
-
-  const citiesJson = cities.filter((city) => {
-    if(city.properties.city === cityToSearch ){
-      geojson.features.push(city);
-      return city
-    }
-    return
-  })
-  console.log(citiesJson);
-
+  },
+  features: [],
 };
-  
-
 
 export const getCityJobsFrecuency = (offers) => {
+  
+  const cityOffers = offers?.map((job) => job.city);
+  const citiesWithGeoData = cityOffers.map(getCoord);
 
-  const cities = offers.map((job) => job.city);
-  let cityCount = {};
+  console.log({ citiesWithGeoData });
+};
 
-  cities.forEach((city) => {
-    if (cityCount[city]) {
-      getCoord(city)
-
-      cityCount[city]++;
-    } else {
-      cityCount[city] = 1;
-    }
-  });
-
-  const jsonResult = Object.keys(cityCount).map((city) => {
-    return {
-    properties : {
-      city: city,
-      mag: cityCount[city]
-    }
-    };
-  });
-
-  const jsonString = JSON.stringify(jsonResult);
-  return jsonString;
+const getCoord = (cityToSearch) => {
+  const citiesJson = cities.find(
+    (city) => city.properties.city === cityToSearch
+  );
+  if (!citiesJson) {
+    return { properties: { city: cityToSearch } };
+  }
+  return citiesJson;
 };
 
 export const getCitiesFromData = (data) => {
@@ -98,4 +59,4 @@ export const formatMoney = (number) => {
     minimumFractionDigits: 0,
     maximumFractionDigits: 0,
   }).format(number);
-}
+};

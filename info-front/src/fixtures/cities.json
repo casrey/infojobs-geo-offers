@@ -30,7 +30,7 @@
   {
     "type": "Feature",
     "properties": {
-      "city": "London",
+      "city": "Londres",
       "country": "United Kingdom"
     },
     "geometry": {
@@ -58,7 +58,7 @@
   {
     "type": "Feature",
     "properties": {
-      "city": "Rome",
+      "city": "Roma",
       "country": "Italy"
     },
     "geometry": {
@@ -111,7 +111,7 @@
   {
     "type": "Feature",
     "properties": {
-      "city": "Seville"
+      "city": "Sevilla"
     },
     "geometry": {
       "type": "Point",
@@ -137,7 +137,7 @@
   {
     "type": "Feature",
     "properties": {
-      "city": "Malaga"
+      "city": "Málaga"
     },
     "geometry": {
       "type": "Point",
@@ -716,6 +716,69 @@
       "coordinates": [
         -3.9208,
         38.9860
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "city": "Donostia-San Sebastián"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.973883,
+        43.3072927
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "city": "Alcobendas"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.625926,
+        40.545017
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "A Coruña"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.4126837,
+        43.3618741
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "San Sebastián de los Reyes"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.6448489,
+        40.5538507
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Tomelloso"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.0396538,
+        39.1642423
       ]
     }
   }

@@ -8,6 +8,7 @@ import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 
 import { OFFERS_QUERY , GET_PLACE_COORD_QUERY } from "../../api";
 import { getCityJobsFrecuency, serializeAdvanceFilters,  getCitiesFromData, getCityJobsFrecuency2, GetCityJobsFrecuency2} from "../../utils";
+import { geojson as defaultGeojson } from "../../utils";
 
 const Layout = () => {
   const [searchParam, setSearchParam] = React.useState("");
@@ -29,20 +30,15 @@ const Layout = () => {
     status: offerStatus,
   } = OFFERS_QUERY({ searchParam, advancedFilters });
 
-  //const { data } = GET_PLACE_COORD_QUERY('Colombia', 3);
+  // const [geojson, setGeojson] = React.useState(defaultGeojson);
 
-    // const { data } = GET_PLACE_COORD_QUERY('Colombia', 3);
-  if (data) {
-    
-    //console.log(data.features[0].center, ' HOLAAA');
-
-    console.log(getCityJobsFrecuency(data.offers), ' JSON CON CANTIDAD POR CIUDAD');
-
-    //const cities = getCitiesFromData(getCityJobsFrecuency(data.offers));
-    //console.log(cities);
-    // const frecuencyCityJobs = getCityJobsFrecuency(data.offers);
-    // console.log(data.features[0].center, ' HOLAAA');
-  }
+  
+    if (data) {
+      const cityJobsFrecuency = getCityJobsFrecuency(data.offers);
+      // setGeojson(cityJobsFrecuency);
+      console.log(cityJobsFrecuency, ' JSON CON CANTIDAD POR CIUDAD');
+    }
+  
 
   return (
     <Grid nulColSpan={1} numColsSm={1} numColsLg={5} className="gap-2 h-full">
