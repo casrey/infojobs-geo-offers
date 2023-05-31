@@ -13,6 +13,7 @@ const AdvancedFilters = ({
   searchParam,
   setSearchParam,
   isFetchingOffers,
+  setGeojson,
   refetch,
 }) => {
   const formatCity = ({ properties: { city } }) => {
@@ -62,7 +63,10 @@ const AdvancedFilters = ({
         <Col className="text-center" numColsSm={4} numColSpanLg={4}>
           <Button
             onClick={() => {
-              !!searchParam && refetch();
+              if (!!searchParam) {
+                refetch();
+                setGeojson();
+              }
             }}
             disabled={isFetchingOffers}
           >

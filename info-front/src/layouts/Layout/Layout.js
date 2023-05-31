@@ -7,6 +7,10 @@ import OffersTable from "../OffersTable/OffersTable";
 import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 
 import { OFFERS_QUERY } from "../../api";
+import {
+  getCityJobsFrecuency,
+} from "../../utils";
+import { geojson as defaultGeojson } from "../../utils";
 
 const Layout = () => {
   const [searchParam, setSearchParam] = React.useState("");
@@ -28,6 +32,14 @@ const Layout = () => {
     status: offerStatus,
   } = OFFERS_QUERY({ searchParam, advancedFilters });
 
+  const [geojson, setGeojson] = React.useState(defaultGeojson);
+
+  React.useEffect(() => {
+    if (data?.offers?.length > 0) {
+      setGeojson(getCityJobsFrecuency(data.offers));
+    }
+  }, [data]);
+
   return (
     <Grid nulColSpan={1} numColsSm={1} numColsLg={5} className="gap-2 h-full">
       <Col numColsSm={1} numColSpanLg={5}>
@@ -38,11 +50,13 @@ const Layout = () => {
           setSearchParam={setSearchParam}
           refetch={refetch}
           isFetchingOffers={isFetchingOffers}
+          setGeojson={setGeojson}
         />
       </Col>
 
       <Col numColSpan={1} numColsSm={1} numColSpanLg={3}>
-        <Map />
+        {console.log({geojson})}
+        <Map geojson={geojson} />
       </Col>
       <Col numColSpan={1} numColsSm={1} numColSpanLg={2}>
         <OffersTable

@@ -7,7 +7,7 @@ export const OFFERS_QUERY = ({ searchParam, advancedFilters }) => {
     queryKey: ["offers"],
     queryFn: async () => {
       const data = await fetch(
-        `http://api.infojobs.net/api/9/offer?q=${searchParam}${
+        `/offer?maxResults=50&q=${searchParam}${
           serializeAdvanceFilters(advancedFilters)
             ? `&${serializeAdvanceFilters(advancedFilters)}`
             : ""
@@ -28,3 +28,14 @@ export const OFFERS_QUERY = ({ searchParam, advancedFilters }) => {
     enabled: false,
   });
 };
+
+export const GET_PLACE_COORD_QUERY = (city, zoom) => {
+  return useQuery({
+    queryKey: ["get_coordinates"],
+    queryFn: async () => {
+      const data = await fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/'${city}.json?access_token=${process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}`)
+      return await data.json();
+    },
+    enabled: !!city,
+  });
+}
