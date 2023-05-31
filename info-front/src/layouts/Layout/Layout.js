@@ -6,13 +6,9 @@ import Map from "../../components/Map/Map";
 import OffersTable from "../OffersTable/OffersTable";
 import AdvancedFilters from "../../components/AdvancedFilters/AdvancedFilters";
 
-import { OFFERS_QUERY, GET_PLACE_COORD_QUERY } from "../../api";
+import { OFFERS_QUERY } from "../../api";
 import {
   getCityJobsFrecuency,
-  serializeAdvanceFilters,
-  getCitiesFromData,
-  getCityJobsFrecuency2,
-  GetCityJobsFrecuency2,
 } from "../../utils";
 import { geojson as defaultGeojson } from "../../utils";
 
