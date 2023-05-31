@@ -16,7 +16,6 @@ const Map = ({ geojson }) => {
 
   return (
     <Card className="h-full">
-      {geojson?.features.length > 0 ? (
         <MapReact
           initialViewState={{
             latitude: 40.463667,
@@ -41,9 +40,6 @@ const Map = ({ geojson }) => {
             <Layer {...unclusteredPointLayer} />
           </Source>
         </MapReact>
-      ) : (
-        ""
-      )}
     </Card>
   );
 };
