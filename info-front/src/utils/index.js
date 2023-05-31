@@ -28,13 +28,6 @@ const getCoord = (cityToSearch) => {
   return citiesJson;
 };
 
-export const getCitiesFromData = (data) => {
-  const cityCount = data.cityCount;
-  const cities = Object.keys(cityCount);
-
-  return cities;
-};
-
 export const serializeAdvanceFilters = (advancedFilters) =>
   Object.keys(advancedFilters)
     .filter((value) => {
