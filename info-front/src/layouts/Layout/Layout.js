@@ -35,7 +35,6 @@ const Layout = () => {
   const [geojson, setGeojson] = React.useState(defaultGeojson);
 
   React.useEffect(() => {
-    console.log({data})
     if (data?.offers?.length > 0) {
       setGeojson(getCityJobsFrecuency(data.offers));
     }
