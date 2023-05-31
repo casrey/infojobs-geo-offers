@@ -1,9 +1,11 @@
 import { Card, Col, Grid, Button } from "@tremor/react";
-import countries from "../../fixtures/countries.json";
+import cities from "../../fixtures/cities.json";
 import teleworking from "../../fixtures/teleworking.json";
 import DropdownFilter from "../DropdownFilter/DropdownFilter";
 import SliderFilter from "../SliderFilter/SliderFilter";
 import Search from "../../components/Search/Search";
+
+import { formatCityKey } from "../../utils";
 
 const AdvancedFilters = ({
   advancedFilters,
@@ -14,6 +16,10 @@ const AdvancedFilters = ({
   setGeojson,
   refetch,
 }) => {
+  const formatCity = ({ properties: { city } }) => {
+    return { value: city, key: formatCityKey(city) };
+  };
+
   return (
     <Card>
       <Grid nulColSpan={1} numColsSm={1} numColsLg={4} className="gap-6">
@@ -28,22 +34,12 @@ const AdvancedFilters = ({
           <DropdownFilter
             advancedFilters={advancedFilters}
             setAdvancedFilters={setAdvancedFilters}
-            field="country"
-            title="Selecciona el país"
-            inputPlaceholder="Busca por país"
-            options={countries}
+            field="city"
+            title="Selecciona la ciudad"
+            inputPlaceholder="Busca por ciudad"
+            options={cities.map(formatCity)}
           />
         </Col>
-        {/* <Col numColsSm={1} numColSpanLg={1}>
-          <DropdownFilter
-            advancedFilters={advancedFilters}
-            setAdvancedFilters={setAdvancedFilters}
-            field="city"
-            title="Filtra por ciudad"
-            inputPlaceholder="Busca ciudad"
-            options={cities}
-          />
-        </Col> */}
         <Col numColsSm={1} numColSpanLg={1}>
           <DropdownFilter
             advancedFilters={advancedFilters}
