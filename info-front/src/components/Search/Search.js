@@ -10,16 +10,6 @@ const Search = ({ searchParam, setSearchParam, refetch }) => {
     },
     [setSearchParam]
   );
-  /* 
-  const handleKeyPress = React.useCallback(
-    (event) => {
-      if (event.key === "Enter" && !!searchParam) {
-        event.preventDefault();
-        refetch();
-      }
-    },
-    [refetch, searchParam]
-  ); */
 
   return (
     <>
@@ -29,7 +19,6 @@ const Search = ({ searchParam, setSearchParam, refetch }) => {
         type="text"
         icon={SearchIcon}
         placeholder="Busca por palabra clave"
-        //onKeyPress={handleKeyPress}
         onChange={handleInputChange}
         value={searchParam}
       />

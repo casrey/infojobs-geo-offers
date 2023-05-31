@@ -1,0 +1,702 @@
+[ 
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Madrid"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.7038,
+        40.4168
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Barcelona"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.1744,
+        41.3851
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Valencia"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.3774,
+        39.4699
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Sevilla"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.9844,
+        37.3891
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Zaragoza"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.8773,
+        41.6488
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Málaga"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.4214,
+        36.7213
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Murcia"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.1300,
+        37.9922
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Palma de Mallorca"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.6502,
+        39.5696
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Las Palmas de Gran Canaria"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -15.4310,
+        28.1237
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Bilbao"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.9253,
+        43.2627
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Alicante"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.4815,
+        38.3452
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Cordoba"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.7794,
+        37.8882
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Valladolid"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.7237,
+        41.6520
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Vigo"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.7261,
+        42.2406
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Gijon"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.6615,
+        43.5322
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "L Hospitalet de Llobregat"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.1016,
+        41.3596
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "A Coruna"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.4188,
+        43.3713
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Vitoria-Gasteiz"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.6724,
+        42.8467
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Granada"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.6067,
+        37.1773
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Elche"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.6996,
+        38.2672
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Oviedo"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.8440,
+        43.3619
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Badalona"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2474,
+        41.4500
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Cartagena"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.9863,
+        37.6058
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Terrassa"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.0086,
+        41.5606
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Jerez de la Frontera"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.1359,
+        36.6850
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Sabadell"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.1075,
+        41.5482
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Santa Cruz de Tenerife"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -16.2500,
+        28.4698
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Pamplona"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.6449,
+        42.8125
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Mostoles"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.8648,
+        40.3220
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Fuenlabrada"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.8104,
+        40.2848
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Alcala de Henares"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.3649,
+        40.4810
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Leganés"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.7736,
+        40.3281
+      ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Burgos"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.6882,
+        42.3439
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Almeria"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.4637,
+        36.8381
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Ourense"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -7.8662,
+        42.3370
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Getafe"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.7320,
+        40.3082
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Algeciras"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.4633,
+        36.1408
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Marbella"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.8858,
+        36.5103
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Salamanca"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.6639,
+        40.9701
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Santander"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.8099,
+        43.4623
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Leon"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.5671,
+        42.5987
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Cadiz"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.2866,
+        36.5271
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Tarragona"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.2436,
+        41.1189
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Jaen"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.7896,
+        37.7796
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Orihuela"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.9438,
+        38.0844
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Mataro"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4445,
+        41.5392
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Albacete"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.8584,
+        38.9942
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Santiago de Compostela"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.5448,
+        42.8782
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Ciudad Real"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.9208,
+        38.9860
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "city": "Donostia-San Sebastián"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.973883,
+        43.3072927
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "city": "Alcobendas"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.625926,
+        40.545017
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "A Coruña"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.4126837,
+        43.3618741
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "San Sebastián de los Reyes"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.6448489,
+        40.5538507
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "city": "Tomelloso"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.0396538,
+        39.1642423
+      ]
+    }
+  } 
+]

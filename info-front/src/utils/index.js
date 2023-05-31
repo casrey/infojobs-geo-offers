@@ -22,3 +22,7 @@ export const formatMoney = (number) => {
     maximumFractionDigits: 0,
   }).format(number);
 };
+
+export const formatCityKey = (cityNotFormattedName) => {
+  return cityNotFormattedName.split(" ").join("-").toLowerCase();
+};
