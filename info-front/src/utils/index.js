@@ -1,15 +1,10 @@
 export const serializeAdvanceFilters = (advancedFilters) =>
   Object.keys(advancedFilters)
-    .filter((value) => {
-      if (typeof advancedFilters[value] === "number") {
-        return true;
-      }
-      if (typeof advancedFilters[value] === "string") {
-        console.log(value, advancedFilters[value]);
-        return true;
-      }
-      return false;
-    })
+    .filter(
+      (value) =>
+        typeof advancedFilters[value] === "number" ||
+        typeof advancedFilters[value] === "string"
+    )
     .map((key) => key + "=" + advancedFilters[key])
     .join("&");
 
